@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="overlay.css">
+    <title>Almacen de links</title>
+</head>
+
+<body>
+    <div class="contenedor">
+        <header>
+            <div class="logo">
+                <h1>Almacen de links</h1>
+            </div>
+            <form action="">
+                <input type="text" class="barra-busqueda" id="barra-busqueda" placeholder="Escribe el nombre del juego" autocomplete="off">
+                <button type="button" class="boton" id="boton">Buscar</button>
+            </form>
+        </header>
+
+        <div id="resultados">
+        </div>
+
+        <section class="overlay" id="overlay">
+
+            <h1 class="nombre" id="nombre"></h1>
+            <div class="categorias" id="categorias">
+                <a href="#" id="b-descripcion" class="activo">Descripcion</a>
+                <a href="#" id="b-contenido">Contenido</a>
+                <a href="#" id="b-requisitos">Requisitos</a>
+                <a href="#" id="b-links">Links</a>
+
+                <p class="descripcion pactivo" id="descripcion"></p>
+                <p class="contenido" id="contenido"></p>
+                <p class="requisitos" id="requisitos"></p>
+                <p class="links" id="links"></p>
+
+            </div>
+
+
+
+        </section>
+    </div>
+
+    <script src="games.js"></script>
+    <script src="main.js"></script>
+</body>
+
+</html>
