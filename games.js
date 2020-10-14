@@ -16,7 +16,7 @@ El juego ofrece a los jugadores una amplia gama de opciones de personalización 
 
 Grand Theft Auto V para PC también incluye Grand Theft Auto Online, con soporte para 30 jugadores y dos espectadores. Grand Theft Auto Online para PC incluirá todas las actualizaciones de juego existentes y el contenido creado por Rockstar lanzado desde el lanzamiento de Grand Theft Auto Online, incluidos los modos Heists y Adversary.`,
         requisitos: `Minimum:
-• OS: Windows 8.1 64 Bit, Windows 8 64 Bit, Windows 7 64 Bit Service Pack 1, Windows Vista 64 Bit Service Pack 2* (*NVIDIA video card recommended if running Vista OS)
+• OS: Windows 8.1 64 Bit, Windows 8 64 Bit, Windows 7 64 Bit Service Pack 1, Windows Vista 64 Bit Service Pack 2* (*NVIDIA video card recommended if running Vista OS)/n
 • Processor: Intel Core 2 Quad CPU Q6600 @ 2.40GHz (4 CPUs) / AMD Phenom 9850 Quad-Core Processor (4 CPUs) @ 2.5GHz
 • Memory: 4 GB RAM
 • Graphics: NVIDIA 9800 GT 1GB / AMD HD 4870 1GB (DX 10, 10.1, 11)
