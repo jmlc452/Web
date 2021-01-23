@@ -1,69 +1,91 @@
-const formulario = document.querySelector("#barra-busqueda");
-const resultados = document.querySelector("#resultados");
-const boton = document.getElementById("boton");
+document.addEventListener("DOMContentLoaded", () => {
+    document.querySelectorAll('input[type=text]').forEach(node => node.addEventListener('Keypress', e => {
+        if (e.keyCode == 13) {
+            e.preventDefault();
+        }
+    }))
+});
 
-const filtrar = () => {
-    resultados.innerHTML = "";
-    const texto = formulario.value.toLowerCase();
-    for (let producto of productos) {
-        let nombre = producto.nombre.toLocaleLowerCase();
-        if (nombre.indexOf(texto) !== -1) {
-            resultados.innerHTML += `<img class="ima-resultado" data-nombre="${producto.nombre}" data-descripcion="${producto.descripcion}" data-link="${producto.link}" data-requisitos="${producto.requisitos}" src="${producto.ima}">`
+
+const form = document.querySelector("#barra-busqueda");
+const resul = document.querySelector("#resultados");
+
+
+const filt = () => {
+    resul.innerHTML = "";
+    const text = form.value.toLowerCase();
+    for (let game of gamesConst) {
+        let name = game.name.toLocaleLowerCase();
+        if (name.indexOf(text) !== -1) {
+            resul.innerHTML += `<img class="ima-resultado" data-link="${game.link}" src="${game.ima}">`
             click();
         }
     }
-    if (resultados.innerHTML === "") {
-        resultados.innerHTML += ''
+    if (resul.innerHTML === "") {
+        resul.innerHTML += ''
     }
-    if (texto == "") {
-        resultados.innerHTML = "";
+    if (text == "") {
+        resul.innerHTML = "";
     }
 }
 
-boton.addEventListener("click", filtrar)
+// Agregamos el listener para la barra de busqueda
+form.addEventListener('input', filt);
+
 
 
 function click() {
     const overlay = document.getElementById('overlay');
     document.querySelectorAll('#resultados img').forEach((elemento) => {
         elemento.addEventListener('click', () => {
-            const nombre = elemento.dataset.nombre;
-            const descripcion = elemento.dataset.descripcion;
-            const contenido = elemento.dataset.contenido;
-            const requisitos = elemento.dataset.requisitos;
-            const link = elemento.dataset.link;
 
-            document.querySelector('#overlay .nombre').innerHTML = nombre;
-            document.querySelector('#overlay .descripcion').innerHTML = descripcion;
-            document.querySelector('#overlay .contenido').innerHTML = contenido;
-            document.querySelector('#overlay .requisitos').innerHTML = requisitos;
-            document.querySelector('#overlay .links').innerHTML = link;
+            const link = elemento.dataset.link;
             overlay.classList.add('activo');
+            /* for (var i = 0; i < 8; i++) {
+                overlay.innerHTML += `<img class="ima-resultado">`
+            } */
         });
 
     });
-    overlay.addEventListener('click', (evento) => {
-        evento.target.id === 'overlay' ? overlay.classList.remove('activo') : '';
-    });
+
 }
 
-window.addEventListener('load', () => {
-    const enlaces = document.querySelectorAll('#categorias a');
-    enlaces.forEach((elemento) => {
-        elemento.addEventListener('click', (evento) => {
-            evento.preventDefault();
-            enlaces.forEach((enlace) => enlace.classList.remove('activo'));
-            evento.target.classList.add('activo');
+// Eventlistener del overlay
+overlay.addEventListener('click', (evento) => {
+    evento.target.id === 'overlay' ? overlay.classList.remove('activo') : '';
+});
+var x = false;
+var y = false;
 
+function mostrarmediafire() {
+    x = !x;
+    if (x == true) {
+        document.getElementById('textmediafire').style.display = "flex";
+    } else {
+        document.getElementById('textmediafire').style.display = "none";
+    }
+}
 
-            const cotenedorCategorias = document.querySelectorAll('#categorias p');
-            cotenedorCategorias.forEach(element => {
-                element.classList.remove('pactivo');
-                if ("b-" + element.id == evento.target.id) {
-                    element.classList.add("pactivo");
-                };
+function mostrarmega() {
+    y = !y;
+    if (y == true) {
+        document.getElementById('textmega').style.display = "flex";
+    } else {
+        document.getElementById('textmega').style.display = "none";
+    }
+}
+fetch('res/texto.txt')
+    .then(res => res.text())
+    .then(content => {
+        let lines = content.split(/\n/);
+        lines.forEach(line => document.write(line));
+    })
 
-            });
-        });
-    });
-})
+function copiarAlPortapapeles(id_elemento) {
+    var aux = document.createElement('input');
+    aux.setAttribute('value', document.getElementById(id_elemento).innerHTML);
+    document.body.appendChild(aux);
+    aux.select();
+    document.execCommand("copy");
+    document.body.removeChild(aux);
+}

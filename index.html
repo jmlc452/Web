@@ -4,24 +4,87 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="css/styleindex.css">
+    <title>Almacen de links</title>
 
-	<meta name="a.validate.01" content="988bae772d204c96f3843b4a164e158b2eef" />
-	
-	
-	
-	
-	</head>
-	
+    <script src="jquery-3.5.1.min.js"></script>
+</head>
 
 <body>
-	<h1>TITULO</h1>
-<script data-cfasync="false" type="text/javascript" src="https://www.linkonclick.com/a/display.php?r=4003543"></script>
-	
-	
-	
-	
-	
-	
-	</body>
+    <div class="contenedor">
+        <header>
+            <div class="logo">
+                <img src="img/titulo.png" alt="">
+            </div>
+            <form action="">
+                <input type="text" class="barra-busqueda" id="barra-busqueda" placeholder="Escribe el nombre del juego" autocomplete="off" aria-selected="false">
+                <!-- <button type="submit" class="boton" id="boton">Buscar</button> -->
+            </form>
+        </header>
+
+        <div id="resultados">
+
+        </div>
+
+        <!-- --------------------------------------------------OVERLAY--------------------------------------------------- -->
+        <section class="overlay" id="overlay">
+
+
+            <div class="contenedorlink" id="mediafire">
+                <button onclick="mostrarmediafire()" class="ver" id="ver">VER</button>
+                <button onclick="copiarAlPortapapeles('textmediafire')" class="copiar" id="copiar">COPIAR</button>
+                <p class="textlink" id="textmediafire" style="display: none;">
+                    <a href="https://www.algo.com">Parte 1 https://www.algo.com</a>
+                    <a href="https://www.algo.com">Parte 2</a>
+                    <a href="https://www.algo.com">Parte 3</a>
+                    <a href="https://www.algo.com">Parte 4</a>
+                    <a href="https://www.algo.com">Parte 5</a>
+                    <a href="https://www.algo.com">Parte 6</a>
+                    <a href="https://www.algo.com">Parte 7</a>
+                    <a href="https://www.algo.com">Parte 8</a>
+                    <a href="https://www.algo.com">Parte 9</a>
+                    <a href="https://www.algo.com">Parte 10</a>
+                    <a href="https://www.algo.com">Parte 11</a>
+                    <a href="https://www.algo.com">Parte 12</a>
+                    <a href="https://www.algo.com">Parte 13</a>
+                    <a href="https://www.algo.com">Parte 15</a>
+                    <a href="https://www.algo.com">Parte 16</a>
+                    <a href="https://www.algo.com">Parte 17</a>
+                    <a href="https://www.algo.com">Parte 18</a>
+                    <a href="https://www.algo.com">Parte 19</a>
+                    <a href="https://www.algo.com">Parte 20</a>
+                </p>
+            </div>
+
+            <div class="contenedorlink" id="mega">
+                <button onclick="mostrarmega()" class="ver" id="ver">VER</button>
+                <button onclick="copiarAlPortapapeles('textmega')" class="copiar" id="copiar">COPIAR</button>
+                <p class="textlink" id="textmega" style="display: none;">
+                    gfas gawrg hjksbdf jbfsdjv s sdfjvbsifu sf hbfdj hfdh dfhfhd hefd aer awre gaerw gger ge ght3 hea hea heth reh ryth ryw hrsh ssrty hrsw hrsw6 hsr h srh wr5 h
+                </p>
+            </div>
+
+
+
+        </section>
+
+    </div>
+
+
+
+
+
+    <!-- <p id="p1">Soy el primer parrafo</p>
+    <p id="p2">Soy el segundo parrafo</p>
+    <button onclick="copiarAlPortapapeles('p1')">Copiar p1</button>
+    <button onclick="copiarAlPortapapeles('p2')">Copiar p2</button>
+    <br>
+    <input type="text" name="" id="" placeholder="pega el texto aqui">-->
+
+
+    <script src="games.js"></script>
+    <script src="main.js"></script>
+
+</body>
 
 </html>
