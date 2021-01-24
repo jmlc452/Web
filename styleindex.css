@@ -1,0 +1,220 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background: #252525;
+    font-family: 'Open Sans', sans-serif;
+    min-width: 500px;
+}
+
+.contenedor {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    width: 90%;
+    margin: auto;
+}
+
+button:focus {
+    outline-color: -webkit-focus-ring-color;
+    outline-style: auto;
+    outline-width: 0px;
+}
+
+input:focus {
+    outline-width: 0px;
+}
+
+
+/* ------------------------- */
+
+
+/* HEADER */
+
+
+/* ------------------------- */
+
+header {
+    padding: 40px 0;
+}
+
+header .logo {
+    text-align: center;
+    margin-bottom: 40px;
+    width: 100%;
+}
+
+header img {
+    width: 100%;
+    max-width: 1000px;
+}
+
+header .logo h1 {
+    color: #ffffff;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+header form {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    margin-bottom: 20px;
+}
+
+header .barra-busqueda {
+    width: 100%;
+    height: 40px;
+    line-height: 40px;
+    background: -webkit-repeating-linear-gradient(top, #e7e7ff, #ffe4e4);
+    background: -moz-repeating-linear-gradient(top, #e7e7ff, #ffe4e4);
+    background: -o-repeating-linear-gradient(top, #e7e7ff, #ffe4e4);
+    background: repeating-linear-gradient(top, #e7e7ff, #ffe4e4);
+    padding: 0 20px;
+    border-radius: 100px;
+    border: none;
+    text-align: center;
+    text-shadow: #b4b4b4;
+    font-size: 16px;
+    box-shadow: #9b3496 0px 0px 4px 4px;
+}
+
+.ima-resultado {
+    margin: 10px;
+    max-width: 22.5%;
+    max-height: 22.5%;
+    min-width: 12.5%;
+    min-height: 12.5%;
+    box-shadow: #9b3496 0px 0px 4px 4px;
+    transition: transform 0.2s ease-in-out 0.1s;
+}
+
+.ima-resultado:hover {
+    transform: scale(1.2);
+    box-shadow: #ff3030 0px 0px 4px 4px;
+}
+
+
+/* ------------------------- */
+
+
+/* Overlay */
+
+
+/* ------------------------- */
+
+.overlay {
+    position: fixed;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    background: rgba(0, 0, 0, .9);
+    width: 100%;
+    height: 100vh;
+    display: none;
+    align-items: center;
+    justify-content: start;
+    flex-direction: column;
+    padding-top: 20px;
+}
+
+.overlay.activo {
+    display: flex;
+}
+
+.overlay img {
+    max-width: 100%;
+}
+
+.overlay .descripcion,
+.nombre,
+.descripcion,
+.requisitos {
+    display: block;
+    background: #fff;
+    padding: 20px;
+    text-align: center;
+    margin-top: 5px;
+    border-radius: 10px;
+    max-width: 50%;
+}
+
+.contenedor-img {
+    position: relative;
+}
+
+.overlay #btn-cerrar-popup {
+    background: none;
+    font-size: 20px;
+    color: #fff;
+    border: none;
+    cursor: pointer;
+    position: absolute;
+    right: -20px;
+    top: -20px;
+}
+
+
+/* ------------------------- */
+
+
+/* Contenedor Links */
+
+
+/* ------------------------- */
+
+.contenedorlink {
+    display: block;
+    background: #fff;
+    padding: 20px;
+    text-align: center;
+    margin-top: 5px;
+    border-radius: 10px;
+    position: relative;
+    width: 90%;
+    min-width: 500px;
+    box-shadow: #9b3434 0px 0px 4px 4px;
+    margin-bottom: 10px;
+}
+
+.contenedorlink button {
+    background: -webkit-repeating-linear-gradient(top, #9595ff, #f87c7c);
+    background: -moz-repeating-linear-gradient(top, #9595ff, #f87c7c);
+    background: -o-repeating-linear-gradient(top, #9595ff, #f87c7c);
+    background: repeating-linear-gradient(top, #9595ff, #f87c7c);
+    padding: 10px;
+    text-align: center;
+    margin-top: -20px;
+    border-width: 0px;
+}
+
+.contenedorlink button:hover {
+    background: -webkit-repeating-linear-gradient(top, #49497a, #693737);
+    background: -moz-repeating-linear-gradient(top, #49497a, #693737);
+    background: -o-repeating-linear-gradient(top, #49497a, #693737);
+    background: repeating-linear-gradient(top, #49497a, #693737);
+}
+
+.contenedorlink .ver {
+    border-top-left-radius: 10px;
+    border-bottom-left-radius: 10px;
+    position: absolute;
+    left: 0;
+    width: 50%
+}
+
+.contenedorlink .copiar {
+    border-top-right-radius: 10px;
+    border-bottom-right-radius: 10px;
+    position: absolute;
+    right: 0;
+    width: 50%
+}
+
+div.textlink {
+    margin-top: 20px;
+    display: flex;
+    flex-direction: column;
+    align-items: baseline;
+}
