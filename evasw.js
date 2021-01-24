@@ -1,1 +1,0 @@
-importScripts('https://dihlw.com/v1/sw-import.js?h=waWQiOjEwNjI4MTIsInNpZCI6MTA2NzQ4NCwid2lkIjoxMzUxMzgsInNyYyI6MiwicG0iOjB9eyJ&d=almacendelinks.ml');
