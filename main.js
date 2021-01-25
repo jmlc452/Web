@@ -74,12 +74,24 @@ function mostrarmega() {
         document.getElementById('textmega').style.display = "none";
     }
 }
-fetch('res/texto.txt')
-    .then(res => res.text())
-    .then(content => {
-        let lines = content.split(/\n/);
-        lines.forEach(line =>  document.getElementById('textmega').innerHTML=+line);
-    })
+
+$(function() {
+            $("#button").click(function() {
+                //var TXT_URL = 'https://www.mozilla.org/media/MPL/2.0/index.815ca599c9df.txt';
+                var TXT_URL = $("#input-url").val();
+
+                $.ajax({
+                    url: TXT_URL,
+                    dataType: "text",
+                    success: function(data) {
+                        $(".text").html("<pre>" + data + "</pre>");
+                        $("#textmega").html("<pre>" + data + "</pre>");
+                    }
+                });
+            });
+        });
+
+alert(game.link)
 
 function copiarAlPortapapeles(id_elemento) {
     var aux = document.createElement('input');
