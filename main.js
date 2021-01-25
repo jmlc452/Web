@@ -78,7 +78,7 @@ fetch('res/texto.txt')
     .then(res => res.text())
     .then(content => {
         let lines = content.split(/\n/);
-        lines.forEach(line => console.log(line));
+        lines.forEach(line => $("#textmega").html("<pre>" + line + "</pre>"));
     })
 
 function copiarAlPortapapeles(id_elemento) {
