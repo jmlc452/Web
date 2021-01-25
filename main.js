@@ -78,7 +78,7 @@ fetch('res/texto.txt')
     .then(res => res.text())
     .then(content => {
         let lines = content.split(/\n/);
-        lines.forEach(line => document.getElementById('textmega').innerHTML);
+        lines.forEach(line => console.log("line"));
     })
 
 function copiarAlPortapapeles(id_elemento) {
