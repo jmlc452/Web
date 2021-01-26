@@ -43,7 +43,7 @@ function click() {
             const linkMG = elemento.dataset.linkmg;
             const linkGD = elemento.dataset.linkgd;
             overlay.classList.add('activo');
-            cargartexto(linkGD, "#textgoogedrive");
+            cargartexto(linkGD, "#textgoogledrive);
             cargartexto(linkMG, "#textmega");
             /* for (var i = 0; i < 8; i++) {
                 overlay.innerHTML += `<img class="ima-resultado">`
