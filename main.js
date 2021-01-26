@@ -6,7 +6,7 @@ document.addEventListener('DOMContentLoaded', () => {
     }))
 });
 
-//window.alert(gamesConst[0].link);
+window.alert(gamesConst[0].link);
 
 const form = document.querySelector("#barra-busqueda");
 const resul = document.querySelector("#resultados");
