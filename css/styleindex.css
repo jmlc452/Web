@@ -82,7 +82,7 @@ header .barra-busqueda {
     margin: 10px;
     max-width: 22.5%;
     max-height: 22.5%;
-    min-width: 12.5%;
+    min-width: 22.5%;
     min-height: 12.5%;
     box-shadow: #9b3496 0px 0px 4px 4px;
     transition: transform 0.2s ease-in-out 0.1s;
