@@ -115,7 +115,7 @@ function cargartexto(rutaTexto, idDepositoTexto) {
         url: rutaTexto,
         dataType: "text",
         success: function(data) {
-            $(idDepositoTexto).html("");
+            
             $(idDepositoTexto).html("<pre>" + data + "</pre>");
         }
     });
