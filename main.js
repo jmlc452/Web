@@ -50,9 +50,10 @@ function click() {
             overlay.classList.add('activo');
             cargartexto(link1, "#textlink1");
             cargartexto(link2, "#textlink2");
+            console.log(link3);
             if (Object.entries(link3).length === 0) {
                   //execute
-                  console.log(link3);
+                  
                 }
             else{
             cargartexto(link3, "#textlink3");
