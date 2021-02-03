@@ -50,6 +50,14 @@ function click() {
             overlay.classList.add('activo');
             cargartexto(link1, "#textlink1");
             cargartexto(link2, "#textlink2");
+            if (Object.entries("#textlink3").length === 0) {
+                  //execute
+                  console.log('"#textlink3"');
+                }
+            else{
+            cargartexto(link3, "#textlink3");
+                
+            }
         });
 
     });
