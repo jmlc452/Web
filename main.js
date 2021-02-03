@@ -6,7 +6,7 @@ document.addEventListener('DOMContentLoaded', () => {
     }))
 });
 
-window.alert(gamesConst[0].link);
+//window.alert(gamesConst[0].link);
 
 const form = document.querySelector("#barra-busqueda");
 const resul = document.querySelector("#resultados");
@@ -15,10 +15,14 @@ const resul = document.querySelector("#resultados");
 const filt = () => {
     resul.innerHTML = "";
     const text = form.value.toLowerCase();
+    var imgCantidad = 0;
     for (let game of gamesConst) {
         let name = game.name.toLocaleLowerCase();
         if (name.indexOf(text) !== -1) {
-            resul.innerHTML += `<img class="ima-resultado" data-linkmg="${game.linkmg}" data-linkgd="${game.linkgd}" src="${game.ima}">`
+            if (imgCantidad < 20) {
+                imgCantidad++;
+                resul.innerHTML += `<img class="ima-resultado" data-link1="${game.link1}" data-link2="${game.link2}" data-link3="${game.link3}" src="${game.ima}">`
+            }
             click();
         }
     }
@@ -40,14 +44,13 @@ function click() {
     document.querySelectorAll('#resultados img').forEach((elemento) => {
         elemento.addEventListener('click', () => {
 
-            const linkMG = elemento.dataset.linkmg;
-            const linkGD = elemento.dataset.linkgd;
+            const link1 = elemento.dataset.link1;
+            const link2 = elemento.dataset.link2;
+            const link3 = elemento.dataset.link3;
             overlay.classList.add('activo');
-            cargartexto(linkGD, "#textgoogledrive");
-            cargartexto(linkMG, "#textmega");
-            /* for (var i = 0; i < 8; i++) {
-                overlay.innerHTML += `<img class="ima-resultado">`
-            } */
+            cargartexto(link1, "#textlink1");
+            cargartexto(link2, "#textlink2");
+            cargartexto(link3, "#textlink3");
         });
 
     });
@@ -60,22 +63,32 @@ overlay.addEventListener('click', (evento) => {
 });
 var x = false;
 var y = false;
+var z = false;
 
-function mostrargoogledrive() {
+function mostrartextlink1() {
     x = !x;
     if (x == true) {
-        document.getElementById('textgoogledrive').style.display = "block";
+        document.getElementById('textlink1').style.display = "block";
     } else {
-        document.getElementById('textgoogledrive').style.display = "none";
+        document.getElementById('textlink1').style.display = "none";
     }
 }
 
-function mostrarmega() {
+function mostrartextlink2() {
     y = !y;
     if (y == true) {
-        document.getElementById('textmega').style.display = "block";
+        document.getElementById('textlink2').style.display = "block";
     } else {
-        document.getElementById('textmega').style.display = "none";
+        document.getElementById('textlink2').style.display = "none";
+    }
+}
+
+function mostrartextlink3() {
+    z = !z;
+    if (z == true) {
+        document.getElementById('textlink3').style.display = "block";
+    } else {
+        document.getElementById('textlink3').style.display = "none";
     }
 }
 
@@ -96,11 +109,6 @@ function copiarAlPortapapeles(id_elemento) {
     document.body.removeChild(aux);
 }
 
-$(document).ready(function() {
-    $("#button").width(500).height(500).hide().fadeIn(10000);
-
-
-});
 
 function cargartexto(rutaTexto, idDepositoTexto) {
     $.ajax({
@@ -112,7 +120,7 @@ function cargartexto(rutaTexto, idDepositoTexto) {
     });
 }
 
-$(function() {
+/* $(function() {
     $("#button").click(function() {
         //var TXT_URL = 'https://www.mozilla.org/media/MPL/2.0/index.815ca599c9df.txt';
         var TXT_URL = $("#input-url").val();
@@ -125,4 +133,4 @@ $(function() {
             }
         });
     });
-});
+}); */
