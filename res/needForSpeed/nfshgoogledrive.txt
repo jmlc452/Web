@@ -1,0 +1,12 @@
+<p style="text-align:center"><span style="font-size:20px"><strong>PARTES RESUBIDAS NO INTERCAMBIABLES CON MEGA</strong></span></p>
+<p><strong><span style="font-size:16px"><span style="color:#c0392b">PARTE 1:&nbsp; </span></span></strong><a href="https://drive.google.com/file/d/1qJCd80xRNkBffGBuSwZrp_dkcpl0Zck2/view" target="_blank">https://drive.google.com/file/d/1qJCd80xRNkBffGBuSwZrp_dkcpl0Zck2/view</a></p>
+<p><strong><span style="font-size:16px"><span style="color:#c0392b">PARTE 2:&nbsp; </span></span></strong><a href="https://drive.google.com/file/d/1JdSRjZ8XCzDIHhdIYSuMTpKpaVFYWk9k/view" target="_blank">https://drive.google.com/file/d/1JdSRjZ8XCzDIHhdIYSuMTpKpaVFYWk9k/view</a></p>
+<p><strong><span style="font-size:16px"><span style="color:#c0392b">PARTE 3: </span></span></strong><a href="https://drive.google.com/file/d/1FWw5xD4wHr9ZpG4ShFGmCumkSOgq7z1s/view" target="_blank">https://drive.google.com/file/d/1FWw5xD4wHr9ZpG4ShFGmCumkSOgq7z1s/view</a></p>
+<p><strong><span style="font-size:16px"><span style="color:#c0392b">PARTE 4: </span></span></strong><a href="https://drive.google.com/file/d/1Zl-fd9OHbNeP8i0-XouUoPaVrNAmlaGV/view" target="_blank">https://drive.google.com/file/d/1Zl-fd9OHbNeP8i0-XouUoPaVrNAmlaGV/view</a></p>
+<p><strong><span style="font-size:16px"><span style="color:#c0392b">PARTE 5: </span></span></strong><a href="https://drive.google.com/file/d/1jBSL5otshawZJjxuHA-TjThHkSGjsWdx/view" target="_blank">https://drive.google.com/file/d/1jBSL5otshawZJjxuHA-TjThHkSGjsWdx/view</a></p>
+<ol>
+<li style="text-align: justify;"><strong>Error de Idioma a español</strong> Para lo que no les funciona ninguna soluciones para cambiar en idioma entran a REGEDIT y se van a esta dirección » HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\EA Games\Need for Speed Heat »<br>
+y donde dicen » Locale » les saldra como «en_US» le dan click derecho ponen modificar y renplasan en_US por » es_ES», OJO deben tener el crack fix y el lenguaje instalado antes de hacer los cambios.<br>
+Esto he hecho yo y me va perfectamente en español</li>
+<li style="text-align: justify;"><strong>El juego no inicia,&nbsp;</strong>lamentablemente eso es porque tienen un procesador FX de AMD ese procesador no levanta el juego y no es funcional bajo ese sistema.</li>
+</ol>

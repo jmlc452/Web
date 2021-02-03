@@ -1,0 +1,10 @@
+<div class="tab-pane active" id="mirror-1" role="tabpanel">
+        <p><strong><span style="font-size:16px"><span style="color:#c0392b">PARTE 1:&nbsp; </span></span></strong><a href="https://drive.google.com/file/d/1rn326cvlLb8gXYhZaQ15PupYn8icUakg/view" target="_blank">https://drive.google.com/file/d/1rn326cvlLb8gXYhZaQ15PupYn8icUakg/view</a></p>
+        <p><strong><span style="font-size:16px"><span style="color:#c0392b">PARTE 2:&nbsp; </span></span></strong><a href="https://drive.google.com/file/d/1NBNM6XDqz0jzwDpOtYWjiVMnVQLAh1aZ/view" target="_blank">https://drive.google.com/file/d/1NBNM6XDqz0jzwDpOtYWjiVMnVQLAh1aZ/view</a></p>
+        <p><strong><span style="font-size:16px"><span style="color:#c0392b">PARTE 3: </span></span></strong><a href="https://drive.google.com/file/d/16eR7LRwuXfohFCxUgbM07jFeXIIMwMMe/view" target="_blank">https://drive.google.com/file/d/16eR7LRwuXfohFCxUgbM07jFeXIIMwMMe/view</a></p>
+        <p><strong><span style="font-size:16px"><span style="color:#c0392b">PARTE 4: </span></span></strong><a href="https://drive.google.com/file/d/1X-pjAbPL0P5lHsvz_qvru53IVHt7ufto/view" target="_blank">https://drive.google.com/file/d/1X-pjAbPL0P5lHsvz_qvru53IVHt7ufto/view</a></p>
+        <p><strong><span style="font-size:16px"><span style="color:#c0392b">PARTE 5: </span></span></strong><a href="https://drive.google.com/file/d/1VYy1fyQr471ZNmsxfHCOOIU6SHGm0dEz/view" target="_blank">https://drive.google.com/file/d/1VYy1fyQr471ZNmsxfHCOOIU6SHGm0dEz/view</a></p>
+        <p><strong><span style="font-size:16px"><span style="color:#c0392b">PARTE 6: </span></span></strong><a href="https://drive.google.com/file/d/1Og1YvnJOUoBF9jlCfqY4NA2Ra3bR52VU/view" target="_blank">https://drive.google.com/file/d/1Og1YvnJOUoBF9jlCfqY4NA2Ra3bR52VU/view</a></p>
+        <p><strong><span style="font-size:16px"><span style="color:#c0392b">PARTE 7: </span></span></strong><a href="https://drive.google.com/file/d/1oO8zNdjAQk75gkNRl6jK97lhbDsjdvRv/view" target="_blank">https://drive.google.com/file/d/1oO8zNdjAQk75gkNRl6jK97lhbDsjdvRv/view</a></p>
+        <p>&nbsp;</p>
+    </div>

@@ -1,0 +1,16 @@
+<h1>Google Drive</h1>
+                    <div class="tab-pane active" id="mirror-1" role="tabpanel">
+                        <p style="text-align: center;"><span style="font-size:22px"><strong><span style="color:#000000">PARTES RESUBIDAS NO COMPATIBLES CON MEGA</span></strong>
+                            </span>
+                        </p>
+                            <p><span style="color:#c0392b"><span style="font-size:16px"><strong>PARTE 1: </strong></span></span><a href="https://drive.google.com/file/d/12XfbZr-26W962g97aFRJN3uFV2CnSKaL/view" target="_blank">drive.google.com/file/d/12XfbZr-26W962g97aFRJN3uFV2CnSKaL/view</a></p>
+
+                            <p><span style="color:#c0392b"><span style="font-size:16px"><strong>PARTE 2: </strong></span></span> <a href="https://drive.google.com/file/d/1zemB1i41OenmXCCBL5Gi8W3VyRhsAXhc/view" target="_blank">drive.google.com/file/d/1zemB1i41OenmXCCBL5Gi8W3VyRhsAXhc/view</a></p>
+
+                            <p><span style="color:#c0392b"><span style="font-size:16px"><strong>PARTE 3: </strong></span></span> <a href="https://drive.google.com/file/d/1WZLC0y077OGRO2sA3LPdP-VLSI17qLeo/view" target="_blank">drive.google.com/file/d/1WZLC0y077OGRO2sA3LPdP-VLSI17qLeo/view</a></p>
+
+                            <p><span style="color:#c0392b"><span style="font-size:16px"><strong>PARTE 4: </strong></span></span> <a href="https://drive.google.com/file/d/1TL8t_Ihd1zY6zhea34_krxAOv7vV0vxn/view" target="_blank">drive.google.com/file/d/1TL8t_Ihd1zY6zhea34_krxAOv7vV0vxn/view</a></p>
+
+                            <p><span style="color:#c0392b"><span style="font-size:16px"><strong>PARTE 5: </strong></span></span><a href="https://drive.google.com/file/d/1Y3YEDo1SAA4xwCzr2YE98P0ocIj7qGlK/view" target="_blank">drive.google.com/file/d/1Y3YEDo1SAA4xwCzr2YE98P0ocIj7qGlK/view</a></p>
+
+                    </div>
