@@ -50,7 +50,6 @@ function click() {
             overlay.classList.add('activo');
             cargartexto(link1, "#textlink1");
             cargartexto(link2, "#textlink2");
-            cargartexto(link3, "#textlink3");
         });
 
     });
