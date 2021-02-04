@@ -1,0 +1,17 @@
+ <h1>MEGA</h1>
+
+
+        <div class="tab-pane active" id="mirror-1" role="tabpanel">
+            <p><span style="font-size:16px"><span style="color:#c0392b"><strong>PARTE 1: </strong></span></span><a href="https://mega.nz/#!MUwmGKTb!4ZKPZqZVP-kEe7hWv9Xd2D_T1Q4TBaO897-dHwGjFwQ" target="_blank">mega.nz/#!MUwmGKTb!4ZKPZqZVP-kEe7hWv9Xd2D_T1Q4TBaO897-dHwGjFwQ</a></p>
+
+            <p><span style="font-size:16px"><span style="color:#c0392b"><strong>PARTE 2: </strong></span></span><a href="https://mega.nz/#!dUQUnBrQ!VH_Qk6A_R5s4-trdOV1hDRiXQ_Qt7LBTI_xrYF2dGF8" target="_blank">mega.nz/#!dUQUnBrQ!VH_Qk6A_R5s4-trdOV1hDRiXQ_Qt7LBTI_xrYF2dGF8</a></p>
+            
+        </div>
+    <h1>GOOGLE DRIVE</h1>
+            
+        <div class="tab-pane active" id="mirror-1" role="tabpanel">
+            <p><span style="font-size:16px"><span style="color:#c0392b"><strong>PARTE 1: </strong></span></span><a href="https://drive.google.com/file/d/1LrotO-mh0NEK3e16MtXtOOBbirgtITQ8/view" target="_blank">drive.google.com/file/d/1LrotO-mh0NEK3e16MtXtOOBbirgtITQ8/view</a></p>
+            
+            <p><span style="font-size:16px"><span style="color:#c0392b"><strong>PARTE 2:</strong></span></span><a href="https://drive.google.com/file/d/1SGL3oobmd4YRlHEEgdKKs3Tm9-QLHRUn/view" target="_blank">drive.google.com/file/d/1SGL3oobmd4YRlHEEgdKKs3Tm9-QLHRUn/view</a></p>
+            
+        </div>

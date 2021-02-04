@@ -1,0 +1,21 @@
+    <h1>GOOGLE DRIVE</h1>
+<div class="tab-pane active" id="mirror-1" role="tabpanel"><p><span style="color: red;"><strong>PARTE 1.-</strong></span> <a href="https://drive.google.com/file/d/1JSJ0Ni_JmotBcpodXrUYIp8UrFANCq7g/view" target="_blank">drive.google.com/file/d/1JSJ0Ni_JmotBcpodXrUYIp8UrFANCq7g/view</a></p>
+
+<p><span style="color: red;"><strong>PARTE 2.-</strong></span> <a href="https://drive.google.com/file/d/1z8NheEVMkIH-u5WMO5hnQWyA94r0u8Os/view" target="_blank">drive.google.com/file/d/1z8NheEVMkIH-u5WMO5hnQWyA94r0u8Os/view</a></p>
+
+<p><span style="color: red;"><strong>PARTE 3.-</strong></span> <a href="https://drive.google.com/file/d/1RRxVgQ6-qNislrANXL9yYXDKsBsZKF07/view" target="_blank">drive.google.com/file/d/1RRxVgQ6-qNislrANXL9yYXDKsBsZKF07/view</a></p>
+
+<p><span style="color: red;"><strong>PARTE 4.-</strong></span> <a href="https://drive.google.com/file/d/1kcBp-eKB-u4GsUd6Py0gOs3iGek8oZ6n/view" target="_blank">drive.google.com/file/d/1kcBp-eKB-u4GsUd6Py0gOs3iGek8oZ6n/view</a></p>
+
+<p><span style="color: red;"><strong>PARTE 5.-</strong></span> <a href="https://drive.google.com/file/d/1Q_K1QpSCG4F6fIeaeRpHB9pgXHopjubG/view" target="_blank">drive.google.com/file/d/1Q_K1QpSCG4F6fIeaeRpHB9pgXHopjubG/view</a></p>
+
+<p><span style="color: red;"><strong>PARTE 6.-</strong></span> <a href="https://drive.google.com/file/d/11CDKCGMoFjnaYx7Um80pGtJXfEG0J7OH/view" target="_blank">drive.google.com/file/d/11CDKCGMoFjnaYx7Um80pGtJXfEG0J7OH/view</a></p>
+
+<p><span style="color: red;"><strong>PARTE 7.-</strong></span> <a href="https://drive.google.com/file/d/1T9bi7BWlv09dQOSCncqjxbFn9p_W9e7g/view" target="_blank">drive.google.com/file/d/1T9bi7BWlv09dQOSCncqjxbFn9p_W9e7g/view</a></p>
+
+<p><span style="color: red;"><strong>PARTE 8.-</strong></span> <a href="https://drive.google.com/file/d/1cjYfP3AZstS3pxIX-iZWC2ugtOLqIPfJ/view" target="_blank">drive.google.com/file/d/1cjYfP3AZstS3pxIX-iZWC2ugtOLqIPfJ/view</a></p>
+
+<p><span style="color: red;"><strong>PARTE 9.-</strong></span> <a href="https://drive.google.com/file/d/1QW2ms-IJSKV7rpvDZRdONHv41HXq7TTt/view" target="_blank">drive.google.com/file/d/1QW2ms-IJSKV7rpvDZRdONHv41HXq7TTt/view</a></p>
+
+<p>&nbsp;</p>
+</div>
