@@ -19,11 +19,11 @@ const filt = () => {
     for (let game of gamesConst) {
         let name = game.name.toLocaleLowerCase();
         if (name.indexOf(text) !== -1) {
-            if (imgCantidad < 20) {
+            if (imgCantidad < 12) {
                 imgCantidad++;
                 resul.innerHTML += `<img class="ima-resultado" data-link1="${game.link1}" data-link2="${game.link2}" data-link3="${game.link3}" src="${game.ima}">`
             }
-            click();
+            //
         }
     }
     if (resul.innerHTML === "") {
@@ -32,6 +32,7 @@ const filt = () => {
     if (text == "") {
         resul.innerHTML = "";
     }
+    click();
 }
 
 // Agregamos el listener para la barra de busqueda
@@ -49,15 +50,19 @@ function click() {
             const link3 = elemento.dataset.link3;
             overlay.classList.add('activo');
             cargartexto(link1, "#textlink1");
-            cargartexto(link2, "#textlink2");
-            console.log(link3);
-            if (Object.entries(link3).length === 0) {
-                  //execute
-                  
-                }
-            else{
-            cargartexto(link3, "#textlink3");
-                
+
+            if (link2 != "undefined") {
+                cargartexto(link2, "#textlink2");
+            } else {
+                $("#textlink3").html("MUY PRONTO...");
+                console.log("algo");
+            }
+
+            if (link3 != "undefined") {
+                cargartexto(link3, "#textlink3");
+            } else {
+                $("#textlink3").html("MUY PRONTO...");
+                console.log("algo");
             }
         });
 
@@ -123,7 +128,6 @@ function cargartexto(rutaTexto, idDepositoTexto) {
         url: rutaTexto,
         dataType: "text",
         success: function(data) {
-            
             $(idDepositoTexto).html("<pre>" + data + "</pre>");
         }
     });
