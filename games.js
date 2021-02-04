@@ -1,4 +1,20 @@
 const gamesConst = [
+    // DEAD SPACE
+    {
+        name: `dead space`,
+        ima: `img/deadspace.jpg`,
+        link1: `res/deadspace/dsgoogledrive.txt`,
+    },
+    {
+        name: `dead space 2`,
+        ima: `img/Dead_Space_2_Boxart.jpg`,
+        link1: `res/deadspace/ds2googledrive.txt`,
+    },
+    {
+        name: `dead space 3`,
+        ima: `img/Dead_space_3_cover.jpg`,
+        link1: `res/deadspace/ds3googledrive.txt`,
+    },
     // GRAN THEF AUTO
     {
         name: `grand thef auto v gta 5`,
@@ -36,7 +52,24 @@ const gamesConst = [
         link1: `res/gta/gtasagoogledrive.txt`,
         link2: `res/gta/gtasamega.txt`
     },
-
+    // METAL GEAR SOLID
+    {
+        name: `metal gear solid 5 phanton paint`,
+        ima: `img/MGS5_Carátula.png`,
+        link1: `res/mgs/mgs5googledrive.txt`,
+        link2: `res/mgs/mgs5mega.txt`,
+    },
+    {
+        name: `metal gear solid 5 ground zeroes`,
+        ima: `img/mgsground5.jpg`,
+        link1: `res/mgs/mgsgzgoogledrive.txt`,
+    },
+    {
+        name: `metal gear solid rising revengeance`,
+        ima: `img/Metal-Gear-Rising_-Revengeance-285x380.jpg`,
+        link1: `res/mgs/mgsrrgoogledrive.txt`,
+        link2: `res/mgs/mgsrrmega.txt`,
+    },
     // MORTAL KOMBAT
     {
         name: `mortal kombat 11`,
