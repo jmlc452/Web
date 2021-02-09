@@ -1,0 +1,17 @@
+    <h1>GOOGLE DRIVE</h1>
+ <div class="tab-pane active" id="mirror-1" role="tabpanel">
+        <p><span style="color: red;"><strong>PARTE 1.-</strong></span> <a href="https://drive.google.com/file/d/1weQzzMubChL3FcoA7_UoWU4x0dIpGKEc/view" target="_blank">drive.google.com/file/d/1weQzzMubChL3FcoA7_UoWU4x0dIpGKEc/view</a></p>
+
+        <p><span style="color: red;"><strong>PARTE 2.-</strong></span> <a href="https://drive.google.com/file/d/1NgZBjdcHvzSCeXHdcAGhIPE2EcfEu7xH/view" target="_blank">drive.google.com/file/d/1NgZBjdcHvzSCeXHdcAGhIPE2EcfEu7xH/view</a></p>
+        
+        <p><span style="color: red;"><strong>PARTE 3.-</strong></span> <a href="https://drive.google.com/file/d/1eAzc3Rev3HS6O24XCrsR2rNIY4P_G8CS/view" target="_blank">drive.google.com/file/d/1eAzc3Rev3HS6O24XCrsR2rNIY4P_G8CS/view</a></p>
+        
+        <p><span style="color: red;"><strong>PARTE 4.-</strong></span> <a href="https://drive.google.com/file/d/1A-8S68wnkY8JEpw2kgpzOL1VTCmO_h6E/view" target="_blank">drive.google.com/file/d/1A-8S68wnkY8JEpw2kgpzOL1VTCmO_h6E/view</a></p>
+
+    </div>
+    <h1>MEDIAFIRE</h1>
+    <p><span style="color: red;"><strong>PARTE 1.-</strong></span> <a href="http://www.mediafire.com/file/64c67dy6udps5nd/Resident.Evil.Revelations.2.Complete.Season.MULTi11-ElAmigos.part1.rar/file" target="_blank">http://www.mediafire.com/file/64c67dy6udps5nd/Resident.Evil.Revelations.2.Complete.Season.MULTi11-ElAmigos.part1.rar/file</a></p>
+
+        <p><span style="color: red;"><strong>PARTE 2.-</strong></span> <a href="http://www.mediafire.com/file/xane84rfeb9sn3q/Resident.Evil.Revelations.2.Complete.Season.MULTi11-ElAmigos.part2.rar/file" target="_blank">http://www.mediafire.com/file/xane84rfeb9sn3q/Resident.Evil.Revelations.2.Complete.Season.MULTi11-ElAmigos.part2.rar/file</a></p>
+
+        <p><span style="color: red;"><strong>PARTE 3.-</strong></span> <a href="http://www.mediafire.com/file/e0777dzxc5pdiyt/Resident.Evil.Revelations.2.Complete.Season.MULTi11-ElAmigos.part3.rar/file" target="_blank">http://www.mediafire.com/file/e0777dzxc5pdiyt/Resident.Evil.Revelations.2.Complete.Season.MULTi11-ElAmigos.part3.rar/file</a></p>

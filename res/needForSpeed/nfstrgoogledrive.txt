@@ -1,3 +1,4 @@
+<h1>GOOGLE DRIVE</h1>
 <div class="tab-pane active" id="mirror-1" role="tabpanel"><p><span style="font-size:16px"><span style="color:#c0392b"><strong>PARTE 1: </strong></span></span><a href="https://drive.google.com/file/d/1timJwGuAjpxvi6MqDOcFLw8iXVzZpt6a/view" target="_blank">drive.google.com/file/d/1timJwGuAjpxvi6MqDOcFLw8iXVzZpt6a/view</a></p>
 
 <p><span style="font-size:16px"><span style="color:#c0392b"><strong>PARTE 2: </strong></span></span><a href="https://drive.google.com/file/d/1lP0tOrt5INPPUE4-p_HI7incHKnIZNjw/view" target="_blank">drive.google.com/file/d/1lP0tOrt5INPPUE4-p_HI7incHKnIZNjw/view</a></p>
@@ -9,3 +10,34 @@
 <p><span style="font-size:16px"><span style="color:#c0392b"><strong>PARTE 5: </strong></span></span><a href="https://drive.google.com/file/d/19oHLWmUgKLK29gopex8JUWnG1q707l0D/view" target="_blank">drive.google.com/file/d/19oHLWmUgKLK29gopex8JUWnG1q707l0D/view</a></p>
 
 </div>
+    <h1>MEGA</h1>
+    <div class="tab-pane active" id="mirror-1" role="tabpanel">
+        <p><span style="font-size:16px"><span style="color:#c0392b"><strong>PARTE 1: </strong></span></span> <a href="https://mega.nz/#!5XBSFKgR!Kz626kZXZcIeppd0amkkXz7LnODqFUdCUnirwmQIZQc" target="_blank">mega.nz/#!5XBSFKgR!Kz626kZXZcIeppd0amkkXz7LnODqFUdCUnirwmQIZQc</a></p>
+        <p><span style="font-size:16px"><span style="color:#c0392b"><strong>PARTE 2: </strong></span></span> <a href="https://mega.nz/#!sTYAxRrA!fDpBW3r1uT-dJZRgRC1npT5C6LW9uPgiS6dgjFSrfZ0" target="_blank">mega.nz/#!sTYAxRrA!fDpBW3r1uT-dJZRgRC1npT5C6LW9uPgiS6dgjFSrfZ0</a></p>
+        <p><span style="font-size:16px"><span style="color:#c0392b"><strong>PARTE 3: </strong></span></span> <a href="https://mega.nz/#!ZTBAnCBB!SWhCC0RT3jkgIDwXN8BrTbTvX6W1igxOeHB3hO2jlyE" target="_blank">mega.nz/#!ZTBAnCBB!SWhCC0RT3jkgIDwXN8BrTbTvX6W1igxOeHB3hO2jlyE</a></p>
+        <p><span style="font-size:16px"><span style="color:#c0392b"><strong>PARTE 4: </strong></span></span> <a href="https://mega.nz/#!NLggRK6Z!pkO6l12n_3OpipZbrYvF8JaH_8r8Td5lRpWMt7B03VQ" target="_blank">mega.nz/#!NLggRK6Z!pkO6l12n_3OpipZbrYvF8JaH_8r8Td5lRpWMt7B03VQ</a></p>
+        <p><span style="font-size:16px"><span style="color:#c0392b"><strong>PARTE 5: </strong></span></span> <a href="https://mega.nz/#!5aIXkJbD!vI7kueNCuiPlqZH1LlaMHtObcDL21V4mYCEN83W19FU" target="_blank">mega.nz/#!5aIXkJbD!vI7kueNCuiPlqZH1LlaMHtObcDL21V4mYCEN83W19FU</a></p>
+       
+    </div>
+    <h1>MEDIAFIRE</h1>
+    <p><span style="color: red;"><strong>PARTE 1.-</strong></span>
+            <a href="http://www.mediafire.com/file/ddhiqg7bcnw52wl/N4S_TR_1.1_SHS.part1.rar/file" target="_blank">http://www.mediafire.com/file/ddhiqg7bcnw52wl/N4S_TR_1.1_SHS.part1.rar/file</a>
+        </p>
+        <p><span style="color: red;"><strong>PARTE 2.-</strong></span>
+            <a href="http://www.mediafire.com/file/tlh01n3cqxr2m88/N4S_TR_1.1_SHS.part2.rar/file" target="_blank">http://www.mediafire.com/file/tlh01n3cqxr2m88/N4S_TR_1.1_SHS.part2.rar/file</a>
+        </p>
+        <p><span style="color: red;"><strong>PARTE 3.-</strong></span>
+            <a href="http://www.mediafire.com/file/wqb42clmh3vt3h9/N4S_TR_1.1_SHS.part3.rar/file" target="_blank">http://www.mediafire.com/file/wqb42clmh3vt3h9/N4S_TR_1.1_SHS.part3.rar/file</a>
+        </p>
+        <p><span style="color: red;"><strong>PARTE 4.-</strong></span>
+            <a href="http://www.mediafire.com/file/7zmdv7y9ksvd3vw/N4S_TR_1.1_SHS.part4.rar/file" target="_blank">http://www.mediafire.com/file/7zmdv7y9ksvd3vw/N4S_TR_1.1_SHS.part4.rar/file</a>
+        </p>
+        <p><span style="color: red;"><strong>PARTE 5.-</strong></span>
+            <a href="http://www.mediafire.com/file/rtwyb4xobhucgiz/N4S_TR_1.1_SHS.part5.rar/file" target="_blank">http://www.mediafire.com/file/rtwyb4xobhucgiz/N4S_TR_1.1_SHS.part5.rar/file</a>
+        </p>
+        <p><span style="color: red;"><strong>PARTE 6.-</strong></span>
+            <a href="http://www.mediafire.com/file/lftg7ex7f8cohlc/N4S_TR_1.1_SHS.part6.rar/file" target="_blank">http://www.mediafire.com/file/lftg7ex7f8cohlc/N4S_TR_1.1_SHS.part6.rar/file</a>
+        </p>
+        <p><span style="color: red;"><strong>PARTE 7.-</strong></span>
+            <a href="http://www.mediafire.com/file/k4rjd278n4dmrak/N4S_TR_1.1_SHS.part7.rar/file" target="_blank">http://www.mediafire.com/file/k4rjd278n4dmrak/N4S_TR_1.1_SHS.part7.rar/file</a>
+        </p>

@@ -1,1 +1,8 @@
+<h1>GOOGLE DRIVE</h1>
 <div class="tab-pane active" id="mirror-1" role="tabpanel"><p><span style="font-size:16px"><span style="color:#c0392b"><strong>PARTE 1: <a href="https://drive.google.com/file/d/19zy-jW7LvMm-eGl68bLRVeEeINKlmzrO/view" target="_blank">https://drive.google.com/file/d/19zy-jW7LvMm-eGl68bLRVeEeINKlmzrO/view</a></strong></span></span></p>    <p><span style="font-size:16px"><span style="color:#c0392b"><strong>PARTE 2:&nbsp; <a href="https://drive.google.com/file/d/1GzVoLlLw2SI2iCmJyTC0ogFhjwBzgCo5/view" target="_blank">https://drive.google.com/file/d/1GzVoLlLw2SI2iCmJyTC0ogFhjwBzgCo5/view</a></strong></span></span></p></div>
+    <h1>MEGA</h1>
+    <p><span style="font-size:16px"><span style="color:#c0392b"><strong>MEGA <a href="https://mega.nz/#F!FaoiiLjB!bKNvaqHriIkQBPfMZH-VUw" target="_blank">https://mega.nz/#F!FaoiiLjB!bKNvaqHriIkQBPfMZH-VUw</a></strong></span></span></p>
+    <h1>MEDIAFIRE</h1>
+    <p><span style="color: red;"><strong>PARTE UNICA .-</strong></span>
+            <a href="http://www.mediafire.com/file/ucl4r6b66x6bwk5/NFSS_-_NDG_Tecno.rar/file" target="_blank">http://www.mediafire.com/file/ucl4r6b66x6bwk5/NFSS_-_NDG_Tecno.rar/file</a>
+        </p>

@@ -1,0 +1,32 @@
+<h1>MEGA</h1>
+
+    <div class="tab-pane active" id="mirror-1" role="tabpanel">
+        <p><span style="font-size:16px"><span style="color:#c0392b"><strong>PARTE 1: </strong></span></span><a href="https://mega.nz/#!5CxgAYKR!ypz-Gz-3VJqm2MoOFKy-JKE8rwtXVjfQqLl-TnzGFLQ" target="_blank">mega.nz/#!5CxgAYKR!ypz-Gz-3VJqm2MoOFKy-JKE8rwtXVjfQqLl-TnzGFLQ</a></p>
+
+        <p><span style="font-size:16px"><span style="color:#c0392b"><strong>PARTE 2: </strong></span></span><a href="https://mega.nz/#!ZbQwWCIa!Gt-YXSak1RbagirXpnX8AXOus9PGr18DiZsLQY04l28" target="_blank">mega.nz/#!ZbQwWCIa!Gt-YXSak1RbagirXpnX8AXOus9PGr18DiZsLQY04l28</a></p>
+
+        <p><span style="font-size:16px"><span style="color:#c0392b"><strong>PARTE 3: </strong></span></span><a href="https://mega.nz/#!VeBnmZYR!l6y_PssHYsGR6FITxZkc3lMR7VanFmKgwxhZIFYE-pE" target="_blank">mega.nz/#!VeBnmZYR!l6y_PssHYsGR6FITxZkc3lMR7VanFmKgwxhZIFYE-pE</a></p>
+
+    </div>
+    <h1>GOOGLE DRIVE</h1>
+
+    <div class="tab-pane active" id="mirror-1" role="tabpanel">
+        <p><span style="font-size:16px"><span style="color:#c0392b"><strong>PARTE 1: </strong></span></span><a href="https://drive.google.com/file/d/12DuStkM9VrH5qjnuFIG2QXb66XoNlmMT/view" target="_blank">drive.google.com/file/d/12DuStkM9VrH5qjnuFIG2QXb66XoNlmMT/view</a></p>
+
+        <p><span style="font-size:16px"><span style="color:#c0392b"><strong>PARTE 2: </strong></span></span><a href="https://drive.google.com/file/d/1ERXmFfEgS0851KeOhww9Y_mZ8X9AMZKW/view" target="_blank">drive.google.com/file/d/1ERXmFfEgS0851KeOhww9Y_mZ8X9AMZKW/view</a></p>
+
+        <p><span style="font-size:16px"><span style="color:#c0392b"><strong>PARTE 3: </strong></span></span><a href="https://drive.google.com/file/d/1Xq-OMOT_waPAn_wdVmBqL19hf76Axpl7/view" target="_blank">drive.google.com/file/d/1Xq-OMOT_waPAn_wdVmBqL19hf76Axpl7/view</a></p>
+
+    </div>
+
+
+    <div itemprop="articleBody" class="s-post-content s-post-small-el bb-mb-el">
+        <h1>MEDIAFIRE</h1>
+        <p>contraseña: pelismediafire o www.mediafireparatodos.com</p>
+        <p><strong>Parte 1:</strong> <a href="http://www.mediafire.com/file/8c71bigkd1ikui2/Assassin%27s+Creed+Rogue.part1.rar">http://www.mediafire.com/file/8c71bigkd1ikui2/Assassin%27s+Creed+Rogue.part1.rar</a></p>
+        <p><strong>Parte 2:</strong> <a href="http://www.mediafire.com/file/1n863p9uba19a54/Assassin%27s+Creed+Rogue.part2.rar">http://www.mediafire.com/file/1n863p9uba19a54/Assassin%27s+Creed+Rogue.part2.rar</a></p>
+        <p>Debes descargar todas las partes y <strong>«extraer» </strong>solo la parte 1. o seleccionar todas las partes, presionar clic derecho y marcar <strong>«extraer»</strong> </p>
+        <blockquote class="wp-block-quote">
+            <p><strong><em>Ninguna sola parte esta dañada. la integridad de los archivos siempre es la correcta, de modo que las partes en su totalidad están funcionales</em></strong></p>
+        </blockquote>
+    </div>

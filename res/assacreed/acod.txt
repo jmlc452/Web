@@ -1,0 +1,56 @@
+<h1>MEGA</h1>
+
+    <div class="tab-pane active" id="mirror-1" role="tabpanel">
+        <p><span style="font-size:16px"><span style="color:#c0392b"><strong>PARTE 1: </strong></span></span><a href="https://mega.nz/file/9mQmESLL#Tv344YGElxPYioKAn7AF7ST99SKrQ32rOhLPVLJ_30Q" target="_blank">mega.nz/file/9mQmESLL#Tv344YGElxPYioKAn7AF7ST99SKrQ32rOhLPVLJ_30Q</a></p>
+
+        <p><span style="font-size:16px"><span style="color:#c0392b"><strong>PARTE 2: </strong></span></span><a href="https://mega.nz/file/AuRSXaYZ#sSZaU8KsC5w-XbWNLnsDa4ydiHSHlhg9LIPkk6Z5p-M" target="_blank">mega.nz/file/AuRSXaYZ#sSZaU8KsC5w-XbWNLnsDa4ydiHSHlhg9LIPkk6Z5p-M</a></p>
+
+        <p><span style="font-size:16px"><span style="color:#c0392b"><strong>PARTE 3: </strong></span></span><a href="https://mega.nz/file/V2Y2iYKA#7t89GqhiCsrtFLC0rEz8O_x79V590MFLREsx2UNgBXs" target="_blank">mega.nz/file/V2Y2iYKA#7t89GqhiCsrtFLC0rEz8O_x79V590MFLREsx2UNgBXs</a></p>
+
+        <p><span style="font-size:16px"><span style="color:#c0392b"><strong>PARTE 4: </strong></span></span><a href="https://mega.nz/file/J7QAkYoJ#_GpBUbQ8et8RhbQvLxBdfQ2kSve-LFE2vkFfSheQhwQ" target="_blank">mega.nz/file/J7QAkYoJ#_GpBUbQ8et8RhbQvLxBdfQ2kSve-LFE2vkFfSheQhwQ</a></p>
+
+        <p><span style="font-size:16px"><span style="color:#c0392b"><strong>PARTE 5: </strong></span></span><a href="https://mega.nz/file/UjAUWQwa#q2y0YvofjscD3KJzx5syAdUQ_tN64AlVXcCWbFMkhvE" target="_blank">mega.nz/file/UjAUWQwa#q2y0YvofjscD3KJzx5syAdUQ_tN64AlVXcCWbFMkhvE</a></p>
+
+        <p><span style="font-size:16px"><span style="color:#c0392b"><strong>PARTE 6: </strong></span></span><a href="https://mega.nz/file/Q7JUEazS#QgfRbuhwIPKbnxKdykrQmHDgYwdLk4QvJ1cEfSw_zns" target="_blank">mega.nz/file/Q7JUEazS#QgfRbuhwIPKbnxKdykrQmHDgYwdLk4QvJ1cEfSw_zns</a></p>
+
+        <p><span style="font-size:16px"><span style="color:#c0392b"><strong>PARTE 7: </strong></span></span><a href="https://mega.nz/file/ciBkhIaD#pDt0KE9FvE2yF-kcHecDvVavQXDQgUYX9r-Cv_jdGg4" target="_blank">mega.nz/file/ciBkhIaD#pDt0KE9FvE2yF-kcHecDvVavQXDQgUYX9r-Cv_jdGg4</a></p>
+
+        <p><span style="font-size:16px"><span style="color:#c0392b"><strong>PARTE 8: </strong></span></span><a href="https://mega.nz/file/MnJGSaxC#UB0SbD1KvUIgSFT1x-_iBB_jK84tBwikm7iEgmBOjH0" target="_blank">mega.nz/file/MnJGSaxC#UB0SbD1KvUIgSFT1x-_iBB_jK84tBwikm7iEgmBOjH0</a></p>
+
+        <p><span style="font-size:16px"><span style="color:#c0392b"><strong>PARTE 9: </strong></span></span><a href="https://mega.nz/file/A2Z0GYzY#rdGizokrCRYELSm-dqbqRIdJAj4hDJiOUhG465hWYq0" target="_blank">mega.nz/file/A2Z0GYzY#rdGizokrCRYELSm-dqbqRIdJAj4hDJiOUhG465hWYq0</a></p>
+
+        <p><span style="font-size:16px"><span style="color:#c0392b"><strong>PARTE 10: </strong></span></span><a href="https://mega.nz/file/IqQ0lQga#GZJvQm1ZLE_cDNoJ-wHnXlaT2G6B_SgkKvgBmg-9rjE" target="_blank">mega.nz/file/IqQ0lQga#GZJvQm1ZLE_cDNoJ-wHnXlaT2G6B_SgkKvgBmg-9rjE</a></p>
+
+        <p><span style="font-size:16px"><span style="color:#c0392b"><strong>PARTE 11: </strong></span></span><a href="https://mega.nz/file/giJ0VASD#KYCPNWHTOoFuqpxd9jfeX29Kb9EpURGIbtvkkcKO-sE" target="_blank">mega.nz/file/giJ0VASD#KYCPNWHTOoFuqpxd9jfeX29Kb9EpURGIbtvkkcKO-sE</a></p>
+
+        <p><span style="font-size:16px"><span style="color:#c0392b"><strong>PARTE 12: </strong></span></span><a href="https://mega.nz/file/4mY2lIiQ#HB6HBfhT-m9dGOGt5_aJAigKWDbSMRZD_46pXC1WHIE" target="_blank">mega.nz/file/4mY2lIiQ#HB6HBfhT-m9dGOGt5_aJAigKWDbSMRZD_46pXC1WHIE</a></p>
+
+    </div>
+    <h1>GOOGLE DRIVE</h1>
+
+    <div class="tab-pane active" id="mirror-1" role="tabpanel">
+        <p><span style="font-size:16px"><span style="color:#c0392b"><strong>PARTE 1: </strong></span></span><a href="https://drive.google.com/file/d/1wnBD_no3o0vi5RrKaiEkdFzVhS6lWuqz/view" target="_blank">drive.google.com/file/d/1wnBD_no3o0vi5RrKaiEkdFzVhS6lWuqz/view</a></p>
+
+        <p><span style="font-size:16px"><span style="color:#c0392b"><strong>PARTE 2: </strong></span></span><a href="https://drive.google.com/file/d/1dmPTeVc-kr4w-m_8RuN50nlJzAoWB_O-/view" target="_blank">drive.google.com/file/d/1dmPTeVc-kr4w-m_8RuN50nlJzAoWB_O-/view</a></p>
+
+        <p><span style="font-size:16px"><span style="color:#c0392b"><strong>PARTE 3: </strong></span></span><a href="https://drive.google.com/file/d/1sSFy1WgyZMkb4O9BW52yEnZVXoYfiB3p/view" target="_blank">drive.google.com/file/d/1sSFy1WgyZMkb4O9BW52yEnZVXoYfiB3p/view</a></p>
+
+        <p><span style="font-size:16px"><span style="color:#c0392b"><strong>PARTE 4: </strong></span></span><a href="https://drive.google.com/file/d/1iC4yymLHEPxCXfdz2tWcE0l-Y-ydRvL2/view" target="_blank">drive.google.com/file/d/1iC4yymLHEPxCXfdz2tWcE0l-Y-ydRvL2/view</a></p>
+
+        <p><span style="font-size:16px"><span style="color:#c0392b"><strong>PARTE 5: </strong></span></span><a href="https://drive.google.com/file/d/1Lqd3Sjk1o0SfTPA6KwQG_0br_ozpRYj9/view" target="_blank">drive.google.com/file/d/1Lqd3Sjk1o0SfTPA6KwQG_0br_ozpRYj9/view</a></p>
+
+        <p><span style="font-size:16px"><span style="color:#c0392b"><strong>PARTE 6: </strong></span></span><a href="https://drive.google.com/file/d/1-J0dF62qMdyRikRsonfPWs_wOsU00fea/view" target="_blank">drive.google.com/file/d/1-J0dF62qMdyRikRsonfPWs_wOsU00fea/view</a></p>
+
+        <p><span style="font-size:16px"><span style="color:#c0392b"><strong>PARTE 7: </strong></span></span><a href="https://drive.google.com/file/d/1g_RYWV5_ht9-vg2biT14rFcoENJ6isV7/view" target="_blank">drive.google.com/file/d/1g_RYWV5_ht9-vg2biT14rFcoENJ6isV7/view</a></p>
+
+        <p><span style="font-size:16px"><span style="color:#c0392b"><strong>PARTE 8: </strong></span></span><a href="https://drive.google.com/file/d/1qqa02IO5J0j-28NktyuYukAAhmVFvwH6/view" target="_blank">drive.google.com/file/d/1qqa02IO5J0j-28NktyuYukAAhmVFvwH6/view</a></p>
+
+        <p><span style="font-size:16px"><span style="color:#c0392b"><strong>PARTE 9: </strong></span></span><a href="https://drive.google.com/file/d/1LlgiAoR6RyTm5rls9YmkltGu2bHyYJGe/view" target="_blank">drive.google.com/file/d/1LlgiAoR6RyTm5rls9YmkltGu2bHyYJGe/view</a></p>
+
+        <p><span style="font-size:16px"><span style="color:#c0392b"><strong>PARTE 10: </strong></span></span><a href="https://drive.google.com/file/d/1VeljrWlwnLOepuewI-2l7RwS-6WfFqz5/view" target="_blank">drive.google.com/file/d/1VeljrWlwnLOepuewI-2l7RwS-6WfFqz5/view</a></p>
+
+        <p><span style="font-size:16px"><span style="color:#c0392b"><strong>PARTE 11: </strong></span></span><a href="https://drive.google.com/file/d/1s3up4JTpc2egbd5jh35wp-e0riUYbkI4/view" target="_blank">drive.google.com/file/d/1s3up4JTpc2egbd5jh35wp-e0riUYbkI4/view</a></p>
+
+        <p><span style="font-size:16px"><span style="color:#c0392b"><strong>PARTE 12:&nbsp; </strong></span></span><a href="https://drive.google.com/file/d/1wqTgGQ4FChLlR9VtXMYzQA-w3xXW0iJq/view" target="_blank">drive.google.com/file/d/1wqTgGQ4FChLlR9VtXMYzQA-w3xXW0iJq/view</a></p>
+
+    </div>

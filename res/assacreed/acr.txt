@@ -1,0 +1,15 @@
+<h1>MEGA</h1>
+
+    <div class="tab-pane active" id="mirror-1" role="tabpanel">
+        <p><span style="font-size:16px"><span style="color:#c0392b"><strong>PARTE 1: <a href="https://mega.nz/#!4mhwSCZK!wj-X3re9Fg_agapFig9XX-XJCmkJBZdTNY1bvzfHZxw" target="_blank">mega.nz/#!4mhwSCZK!wj-X3re9Fg_agapFig9XX-XJCmkJBZdTNY1bvzfHZxw</a></strong></span></span>
+        </p>
+        <p></p>
+
+        <p><span style="font-size:16px"><span style="color:#c0392b"><strong>PARTE 2: <a href="https://mega.nz/#!MjxWQCxA!-rL-QmfPISAMslvkuSzj5BGd_h2Xx52mgLjhNnaTuks" target="_blank">mega.nz/#!MjxWQCxA!-rL-QmfPISAMslvkuSzj5BGd_h2Xx52mgLjhNnaTuks</a></strong></span></span>
+        </p>
+
+    </div>
+
+    <p><span style="color: red;"><strong>MEDIAFIRE .-</strong></span>
+        <a href="https://www.mediafire.com/file/xbx13688bk64bt1/Assassins.Creed.Revelations.Gold.Edition.Online.xfriki95x.rar/file" target="_blank">https://www.mediafire.com/file/xbx13688bk64bt1/Assassins.Creed.Revelations.Gold.Edition.Online.xfriki95x.rar/file</a>
+    </p>

@@ -1,3 +1,4 @@
+    <h1>GOOGLE DRIVE</h1>
 <div class="tab-pane active" id="mirror-1" role="tabpanel">
         <p><strong><span style="font-size:16px"><span style="color:#c0392b">PARTE 1:&nbsp; </span></span></strong><a href="https://drive.google.com/file/d/1rn326cvlLb8gXYhZaQ15PupYn8icUakg/view" target="_blank">https://drive.google.com/file/d/1rn326cvlLb8gXYhZaQ15PupYn8icUakg/view</a></p>
         <p><strong><span style="font-size:16px"><span style="color:#c0392b">PARTE 2:&nbsp; </span></span></strong><a href="https://drive.google.com/file/d/1NBNM6XDqz0jzwDpOtYWjiVMnVQLAh1aZ/view" target="_blank">https://drive.google.com/file/d/1NBNM6XDqz0jzwDpOtYWjiVMnVQLAh1aZ/view</a></p>
@@ -8,3 +9,28 @@
         <p><strong><span style="font-size:16px"><span style="color:#c0392b">PARTE 7: </span></span></strong><a href="https://drive.google.com/file/d/1oO8zNdjAQk75gkNRl6jK97lhbDsjdvRv/view" target="_blank">https://drive.google.com/file/d/1oO8zNdjAQk75gkNRl6jK97lhbDsjdvRv/view</a></p>
         <p>&nbsp;</p>
     </div>
+    <h1>MEGA</h1>
+    <div class="tab-pane active" id="mirror-1" role="tabpanel">
+        <p><strong><span style="font-size:16px"><span style="color:#c0392b">PARTE 1: </span></span></strong><a href="https://mega.nz/#!1ItDUAgQ!B3_DmJGGssf6dAHUBezKCK4fCxoUkh1YPyQH8dYYu0c" target="_blank">https://mega.nz/#!1ItDUAgQ!B3_DmJGGssf6dAHUBezKCK4fCxoUkh1YPyQH8dYYu0c</a></p>
+        <p><strong><span style="font-size:16px"><span style="color:#c0392b">PARTE 2: </span></span></strong><a href="https://mega.nz/#!NF01UKLI!9fDtNX5sTpRuJglCmd51IjS8AIfdVocMnIrQpFtDQMQ" target="_blank">https://mega.nz/#!NF01UKLI!9fDtNX5sTpRuJglCmd51IjS8AIfdVocMnIrQpFtDQMQ</a></p>
+        <p><strong><span style="font-size:16px"><span style="color:#c0392b">PARTE 3: </span></span></strong><a href="https://mega.nz/#!0Y9RyIyD!XwcyCjU_a8oDKDMlf2DS6H25z7fKEKOBzuMDxq1augk" target="_blank">https://mega.nz/#!0Y9RyIyD!XwcyCjU_a8oDKDMlf2DS6H25z7fKEKOBzuMDxq1augk</a></p>
+        <p><strong><span style="font-size:16px"><span style="color:#c0392b">PARTE 4: </span></span></strong><a href="https://mega.nz/#!dA8H1CIJ!CrjrCS1MPqr_K9vpVRcIHtWKT2dchaKG7JtM9FVid_s" target="_blank">https://mega.nz/#!dA8H1CIJ!CrjrCS1MPqr_K9vpVRcIHtWKT2dchaKG7JtM9FVid_s</a></p>
+        <p><strong><span style="font-size:16px"><span style="color:#c0392b">PARTE 5: </span></span></strong><a href="https://mega.nz/#!UY9zXIZA!LiQag1pz7rxsX6fUvEl9mshjM_EfzGKc4cdUqkRXqaw" target="_blank">https://mega.nz/#!UY9zXIZA!LiQag1pz7rxsX6fUvEl9mshjM_EfzGKc4cdUqkRXqaw</a></p>
+        <p><strong><span style="font-size:16px"><span style="color:#c0392b">PARTE 6: </span></span></strong><a href="https://mega.nz/#!lNtnkIzD!mZowhCE3hJHDuKNvgZ2N0HGB6PpH8JFk0QRngHQoeSc" target="_blank">https://mega.nz/#!lNtnkIzD!mZowhCE3hJHDuKNvgZ2N0HGB6PpH8JFk0QRngHQoeSc</a></p>
+        <p><strong><span style="font-size:16px"><span style="color:#c0392b">PARTE 7: </span></span></strong><a href="https://mega.nz/#!RcszSIhB!2h6uv5mo8wMhedy9q6psMAW8RdCKKd_MXyuFER3lP0Q" target="_blank">https://mega.nz/#!RcszSIhB!2h6uv5mo8wMhedy9q6psMAW8RdCKKd_MXyuFER3lP0Q</a></p>
+        <p><strong><span style="font-size:16px"><span style="color:#c0392b">PARTE 8: </span></span></strong><a href="https://mega.nz/#!kNsVXQrY!skvicVBbuUoDE2v4ZH__6CnaWfm53Cg2JVLdeJr66h0" target="_blank">https://mega.nz/#!kNsVXQrY!skvicVBbuUoDE2v4ZH__6CnaWfm53Cg2JVLdeJr66h0</a></p>
+        <p><strong><span style="font-size:16px"><span style="color:#c0392b">PARTE 9: </span></span></strong><a href="https://mega.nz/#!VVtnSC7S!Np12x23J1tCyAQwistQTeqpCFAvbqr92gMBstZnWX70" target="_blank">https://mega.nz/#!VVtnSC7S!Np12x23J1tCyAQwistQTeqpCFAvbqr92gMBstZnWX70</a></p>
+        <p><strong><span style="font-size:16px"><span style="color:#c0392b">PARTE 10: </span></span></strong><a href="https://mega.nz/#!9Y1XlCAQ!b8GeXuoG9T0xzsLtuydDRDrYi-BIhHCdrup8NYCkWU0" target="_blank">https://mega.nz/#!9Y1XlCAQ!b8GeXuoG9T0xzsLtuydDRDrYi-BIhHCdrup8NYCkWU0</a></p>
+        <p><strong><span style="font-size:16px"><span style="color:#c0392b">PARTE 11: </span></span></strong><a href="https://mega.nz/#!hFsn0CID!x1YKDpyzEBo38xPEuRwM9FDkGOIF29wmnX-PMLlUy6w" target="_blank">https://mega.nz/#!hFsn0CID!x1YKDpyzEBo38xPEuRwM9FDkGOIF29wmnX-PMLlUy6w</a></p>
+        <br>
+        Contraseña | zonaleros<br>
+    </div>
+    <h1>MEDIAFIRE</h1>
+    <p><strong>Parte 1:</strong> <a href="http://www.mediafire.com/file/ba9hoo1nowg90y0/R333_7_51D3IVT_3U1L_7.part1.rar/file">http://www.mediafire.com/file/ba9hoo1nowg90y0/R333_7_51D3IVT_3U1L_7.part1.rar/file</a></p>
+<p><strong>Parte 2:</strong> <a href="http://www.mediafire.com/file/d8dk84bt6nup2vi/R333_7_51D3IVT_3U1L_7.part2.rar/file">http://www.mediafire.com/file/d8dk84bt6nup2vi/R333_7_51D3IVT_3U1L_7.part2.rar/file</a></p>
+<p><strong>Parte 3:</strong> <a href="http://www.mediafire.com/file/h51kghznfy6961e/R333_7_51D3IVT_3U1L_7.part3.rar/file">http://www.mediafire.com/file/h51kghznfy6961e/R333_7_51D3IVT_3U1L_7.part3.rar/file</a></p>
+<p><strong>Parte 4:</strong> <a href="http://www.mediafire.com/file/u6hnck5r7ldulgs/R333_7_51D3IVT_3U1L_7.part4.rar/file">http://www.mediafire.com/file/u6hnck5r7ldulgs/R333_7_51D3IVT_3U1L_7.part4.rar/file</a> </p>
+<p><strong>Parte 5:</strong> <a href="http://www.mediafire.com/file/lgtfnkgzy5p6zga/R333_7_51D3IVT_3U1L_7.part5.rar/file">http://www.mediafire.com/file/lgtfnkgzy5p6zga/R333_7_51D3IVT_3U1L_7.part5.rar/file</a> </p>
+<p><strong>Parte 6:</strong> <a href="https://www.mediafire.com/file/4fs5klwqwq52eq2/R333_7_51D3IVT_3U1L_7.part6.rar/file">https://www.mediafire.com/file/4fs5klwqwq52eq2/R333_7_51D3IVT_3U1L_7.part6.rar/file</a> </p>
+<p><strong>Parte 7:</strong> <a href="https://www.mediafire.com/file/djsupm3rosj50lr/R333_7_51D3IVT_3U1L_7.part7.rar/file">https://www.mediafire.com/file/djsupm3rosj50lr/R333_7_51D3IVT_3U1L_7.part7.rar/file</a></p>
+<p><strong>Parte 8: </strong><a href="https://www.mediafire.com/file/0yaxxrxfp6aofxi/R333_7_51D3IVT_3U1L_7.part8.rar/file">https://www.mediafire.com/file/0yaxxrxfp6aofxi/R333_7_51D3IVT_3U1L_7.part8.rar/file</a></p>

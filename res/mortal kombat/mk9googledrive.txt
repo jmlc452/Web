@@ -1,6 +1,17 @@
+    <h1>GOOGLE DRIVE</h1>
 <div class="tab-pane active" id="mirror-1" role="tabpanel">
         <p><span style="color:#c0392b"><span style="font-size:16px"><strong>PARTE 1: </strong></span></span><a href="https://drive.google.com/uc?id=1W14uM5f6aepp0wbeezvlpVoM8ar_g_lT&amp;export=download" target="_blank">drive.google.com/uc?id=1W14uM5f6aepp0wbeezvlpVoM8ar_g_lT&amp;export=download</a></p>
         <p><span style="color:#c0392b"><span style="font-size:16px"><strong>PARTE 2: </strong></span></span><a href="https://drive.google.com/uc?id=1EOkjBLiS7UJ4j411SORSEc7r7pWOfkdI&amp;export=download" target="_blank">drive.google.com/uc?id=1EOkjBLiS7UJ4j411SORSEc7r7pWOfkdI&amp;export=download</a></p>
         <p><span style="color:#c0392b"><span style="font-size:16px"><strong>PARTE 3: </strong></span></span><a href="https://drive.google.com/uc?id=11LJCghJtOBrwh9apulehpG4saEoW_Xvo&amp;export=download" target="_blank">drive.google.com/uc?id=11LJCghJtOBrwh9apulehpG4saEoW_Xvo&amp;export=download</a></p>
        
     </div>
+    <h1>MEDIAFIRE</h1>
+            <p><a href="http://www.mediafire.com/file/41l6la3uqjq5e2a/mortal_kombat_komplete_edition_-_N_viejo.rar/file" target="_blank">http://www.mediafire.com/file/41l6la3uqjq5e2a/mortal_kombat_komplete_edition_-_N_viejo.rar/file</a></p>
+
+    <h1>MEGA</h1>
+
+    <div class="tab-pane active" id="mirror-1" role="tabpanel">
+        <p><span style="color:#c0392b"><span style="font-size:16px"><strong>PARTE 1: </strong></span></span><a href="https://mega.nz/#!1hgRVYLa!UUUr_DFQfHzGJsa54PzF8Q0z2UOiw0EOsRXJAaJIzw8" target="_blank">mega.nz/#!1hgRVYLa!UUUr_DFQfHzGJsa54PzF8Q0z2UOiw0EOsRXJAaJIzw8</a></p>
+        <p><span style="color:#c0392b"><span style="font-size:16px"><strong>PARTE 2: </strong></span></span><a href="https://mega.nz/#!EloXUAoa!I4zNiznrbPaBZxeT1yF-NVjRzNFQFYRz8ruxaCEgrbk" target="_blank">mega.nz/#!EloXUAoa!I4zNiznrbPaBZxeT1yF-NVjRzNFQFYRz8ruxaCEgrbk</a></p>
+        <p><span style="color:#c0392b"><span style="font-size:16px"><strong>PARTE 3: </strong></span></span><a href="https://mega.nz/#!RkoDTSKa!KSYDvALHwHbN_qVEJxFmN50jRubgnSVdAfqazh1fyD8" target="_blank">mega.nz/#!RkoDTSKa!KSYDvALHwHbN_qVEJxFmN50jRubgnSVdAfqazh1fyD8</a></p>
+       </div>

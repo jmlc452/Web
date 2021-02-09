@@ -1,0 +1,56 @@
+<h1>MEGA</h1>
+    <p><span style="font-size:16px"><span style="color:#c0392b"><strong>MEGA:&nbsp;&nbsp;</strong><a href="https://mega.nz/#!wcdQnKwL!OXhEZhSCAOBSq863GRsM3-Lq9NEVJg2_dqQRHK10-TY" target="_blank">mega.nz/#!wcdQnKwL!OXhEZhSCAOBSq863GRsM3-Lq9NEVJg2_dqQRHK10-TY</a></span></span>
+    </p>
+    <h1>GOOGLE DRIVE</h1>
+
+    <div class="tab-pane active" id="mirror-1" role="tabpanel">
+        <p><span style="font-size:16px"><span style="color:#c0392b"><strong>PARTE 1: </strong></span></span><a href="https://drive.google.com/file/d/1AJdyS1J6BfjPsvUYOrZGct0ZOgPiKrNW/view" target="_blank">drive.google.com/file/d/1AJdyS1J6BfjPsvUYOrZGct0ZOgPiKrNW/view</a></p>
+
+        <p><span style="font-size:16px"><span style="color:#c0392b"><strong>PARTE 2: </strong></span></span><a href="https://drive.google.com/file/d/1i9w4yvqBc273vy9gj7ryERAKWOZW8qB9/view" target="_blank">drive.google.com/file/d/1i9w4yvqBc273vy9gj7ryERAKWOZW8qB9/view</a></p>
+
+        <p><span style="font-size:16px"><span style="color:#c0392b"><strong>PARTE 3: </strong></span></span><a href="https://drive.google.com/file/d/1DqG1DxhHMnmKlNvVMrAyynerRRZuDy82/view" target="_blank">drive.google.com/file/d/1DqG1DxhHMnmKlNvVMrAyynerRRZuDy82/view</a></p>
+
+        <p><span style="font-size:16px"><span style="color:#c0392b"><strong>PARTE 4: </strong></span></span><a href="https://drive.google.com/file/d/1R1_bt-sF_JV1nT6mNJvza_aeczu3yzhi/view" target="_blank">drive.google.com/file/d/1R1_bt-sF_JV1nT6mNJvza_aeczu3yzhi/view</a></p>
+
+        <p><span style="font-size:16px"><span style="color:#c0392b"><strong>PARTE 5: </strong></span></span><a href="https://drive.google.com/file/d/1AfFRLKNOO-ZiCl8GpDxnDViU8SEIZbig/view" target="_blank">drive.google.com/file/d/1AfFRLKNOO-ZiCl8GpDxnDViU8SEIZbig/view</a></p>
+
+        <p><span style="font-size:16px"><span style="color:#c0392b"><strong>PARTE 6: </strong></span></span><a href="https://drive.google.com/file/d/1EiO_7-9E4gaousj2xxQMuPLl99X66BcO/view" target="_blank">drive.google.com/file/d/1EiO_7-9E4gaousj2xxQMuPLl99X66BcO/view</a></p>
+
+        <p><span style="font-size:16px"><span style="color:#c0392b"><strong>PARTE 7: </strong></span></span><a href="https://drive.google.com/file/d/1_9vHsQo9ONOUIffNlpmZFZECW0fXEE5s/view" target="_blank">drive.google.com/file/d/1_9vHsQo9ONOUIffNlpmZFZECW0fXEE5s/view</a></p>
+
+        <p><span style="font-size:16px"><span style="color:#c0392b"><strong>PARTE 8: </strong></span></span><a href="https://drive.google.com/file/d/1nKLHIIXIt1tactphT4GG13QubDIKTbSG/view" target="_blank">drive.google.com/file/d/1nKLHIIXIt1tactphT4GG13QubDIKTbSG/view</a></p>
+
+        <p><span style="font-size:16px"><span style="color:#c0392b"><strong>PARTE 9: </strong></span></span><a href="https://drive.google.com/file/d/1tM5WJ46qtN5uR9aoizmXC5ZgK-8Zt5qW/view" target="_blank">drive.google.com/file/d/1tM5WJ46qtN5uR9aoizmXC5ZgK-8Zt5qW/view</a></p>
+
+        <p><span style="font-size:16px"><span style="color:#c0392b"><strong>PARTE 10: </strong></span></span><a href="https://drive.google.com/file/d/1GgF-lsi8jPwxOke8yw6e9YfOetQTSu2L/view" target="_blank">drive.google.com/file/d/1GgF-lsi8jPwxOke8yw6e9YfOetQTSu2L/view</a></p>
+
+        <p><span style="font-size:16px"><span style="color:#c0392b"><strong>PARTE 11: </strong></span></span><a href="https://drive.google.com/file/d/1AmjHgiOvPPJExXtV_lYiftN5bEfESO4o/view" target="_blank">drive.google.com/file/d/1AmjHgiOvPPJExXtV_lYiftN5bEfESO4o/view</a></p>
+
+        <p><span style="font-size:16px"><span style="color:#c0392b"><strong>PARTE 12: </strong></span></span><a href="https://drive.google.com/file/d/15acfiaAUHerjqRCHVEYvkReS1dP1TGDB/view" target="_blank">drive.google.com/file/d/15acfiaAUHerjqRCHVEYvkReS1dP1TGDB/view</a></p>
+
+        <p><strong><span style="font-size:16px"><span style="color:#c0392b">PARTE 13:</span></span> </strong><a href="https://drive.google.com/file/d/1yzDElnQPyJnGcFKEsCSFeYfRgPOAiaVb/view" target="_blank">drive.google.com/file/d/1yzDElnQPyJnGcFKEsCSFeYfRgPOAiaVb/view</a></p>
+
+    </div>
+
+
+    <div itemprop="articleBody" class="s-post-content s-post-small-el bb-mb-el">
+        <h1>MEDIAFIRE</h1>
+
+        <p><strong>Parte 1:</strong>&nbsp;<a href="http://www.mediafire.com/file/cyl0j1rpgg3vvnu/Assassin%2527s_Creed_UnityMediafire.part01.rar/file">http://www.mediafire.com/file/cyl0j1rpgg3vvnu/Assassin%2527s_Creed_UnityMediafire.part01.rar/file</a></p>
+        <p><strong>Parte 2:</strong>&nbsp;<a href="http://www.mediafire.com/file/7j27bad8ho8f7qg/Assassin%2527s_Creed_UnityMediafire.part02.rar/file">http://www.mediafire.com/file/7j27bad8ho8f7qg/Assassin%2527s_Creed_UnityMediafire.part02.rar/file</a></p>
+        <p><strong>Parte 3:</strong>&nbsp;<a href="http://www.mediafire.com/file/plhqt8913nlp902/Assassin%2527s_Creed_UnityMediafire.part03.rar/file">http://www.mediafire.com/file/plhqt8913nlp902/Assassin%2527s_Creed_UnityMediafire.part03.rar/file</a></p>
+        <p><strong>Parte 4:</strong>&nbsp;<a href="http://www.mediafire.com/file/7m4cpqzmmmg2yvx/Assassin%2527s_Creed_UnityMediafire.part04.rar/file">http://www.mediafire.com/file/7m4cpqzmmmg2yvx/Assassin%2527s_Creed_UnityMediafire.part04.rar/file</a></p>
+        <p><strong>Parte 5:</strong>&nbsp;<a href="http://www.mediafire.com/file/z6hy9vog2nazinj/Assassin%2527s_Creed_UnityMediafire.part05.rar/file">http://www.mediafire.com/file/z6hy9vog2nazinj/Assassin%2527s_Creed_UnityMediafire.part05.rar/file</a></p>
+        <p><strong>Parte 6:</strong>&nbsp;<a href="http://www.mediafire.com/file/2wk0zndz2wdad1y/Assassin%2527s_Creed_UnityMediafire.part06.rar/file">http://www.mediafire.com/file/2wk0zndz2wdad1y/Assassin%2527s_Creed_UnityMediafire.part06.rar/file</a></p>
+        <p><strong>Parte 7:</strong>&nbsp;<a href="http://www.mediafire.com/file/12u7ylmm3bexyeu/Assassin%2527s_Creed_UnityMediafire.part07.rar/file">http://www.mediafire.com/file/12u7ylmm3bexyeu/Assassin%2527s_Creed_UnityMediafire.part07.rar/file</a></p>
+        <p><strong>Parte 8:</strong>&nbsp;<a href="http://www.mediafire.com/file/dl77efcd4rf3jfw/Assassin%2527s_Creed_UnityMediafire.part08.rar/file">http://www.mediafire.com/file/dl77efcd4rf3jfw/Assassin%2527s_Creed_UnityMediafire.part08.rar/file</a></p>
+        <p><strong>Parte 9:</strong>&nbsp;<a href="http://www.mediafire.com/file/608tcvmhhcdq9lp/Assassin%2527s_Creed_UnityMediafire.part09.rar/file">http://www.mediafire.com/file/608tcvmhhcdq9lp/Assassin%2527s_Creed_UnityMediafire.part09.rar/file</a></p>
+        <p><strong>Parte 10:</strong>&nbsp;<a href="http://www.mediafire.com/file/ajde73sbuhuzfw7/Assassin%2527s_Creed_UnityMediafire.part10.rar/file">http://www.mediafire.com/file/ajde73sbuhuzfw7/Assassin%2527s_Creed_UnityMediafire.part10.rar/file</a></p>
+        <p><strong>Parte 11:</strong>&nbsp;<a href="http://www.mediafire.com/file/sdndauu72sfuvts/Assassin%2527s_Creed_UnityMediafire.part11.rar/file">http://www.mediafire.com/file/sdndauu72sfuvts/Assassin%2527s_Creed_UnityMediafire.part11.rar/file</a></p>
+        <p><strong>Parte 12:</strong>&nbsp;<a href="http://www.mediafire.com/file/2wrttoovxbzf3lb/Assassin%2527s_Creed_UnityMediafire.part12.rar/file">http://www.mediafire.com/file/2wrttoovxbzf3lb/Assassin%2527s_Creed_UnityMediafire.part12.rar/file</a></p>
+        <p><strong>Parte 13:</strong>&nbsp;<a href="http://www.mediafire.com/file/wbqts48i0c93eha/Assassin%2527s_Creed_UnityMediafire.part13.rar/file">http://www.mediafire.com/file/wbqts48i0c93eha/Assassin%2527s_Creed_UnityMediafire.part13.rar/file</a></p>
+        <p><strong>Parte 14:</strong>&nbsp;<a href="http://www.mediafire.com/file/2xbsvdxv2d22ppt/Assassin%2527s_Creed_UnityMediafire.part14.rar/file">http://www.mediafire.com/file/2xbsvdxv2d22ppt/Assassin%2527s_Creed_UnityMediafire.part14.rar/file</a></p>
+        <p>Debes descargar todas las partes y <strong>«extraer» </strong>solo la parte 1. o seleccionar todas las partes, presionar clic derecho y marcar <strong>«extraer»</strong> </p>
+        <blockquote class="wp-block-quote">
+            <p><strong><em>Ninguna sola parte esta dañada. la integridad de los archivos siempre es la correcta, de modo que las partes en su totalidad están funcionales</em></strong></p>
+        </blockquote>

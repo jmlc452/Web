@@ -1,0 +1,4 @@
+<div class="tab-pane active" id="mirror-1" role="tabpanel"><p><span style="font-size:16px"><span style="color:#c0392b"><strong>MEGA:&nbsp;<a href="https://mega.nz/#!1jomHZBB!s-8lHjPM2N-W8smAgopuse8bp_GRbLHGktj9B7hyM5Y" target="_blank">mega.nz/#!1jomHZBB!s-8lHjPM2N-W8smAgopuse8bp_GRbLHGktj9B7hyM5Y</a></strong></span></span></p>
+
+<p><span style="font-size:16px"><span style="color:#c0392b"><strong>GOOGLE DRIVE:&nbsp;&nbsp;<a href="https://drive.google.com/uc?id=0B7cF_DDbYrUrWTFXM09VMFlWdWM&amp;export=download" target="_blank">drive.google.com/uc?id=0B7cF_DDbYrUrWTFXM09VMFlWdWM&amp;export=download</a></strong></span></span></p>
+</div>
