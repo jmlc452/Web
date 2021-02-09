@@ -21,7 +21,7 @@ const filt = () => {
         if (name.indexOf(text) !== -1) {
             if (imgCantidad < 12) {
                 imgCantidad++;
-                resul.innerHTML += `<img class="ima-resultado" data-link1="${game.link1}" data-link2="${game.link2}" data-link3="${game.link3}" src="${game.ima}">`
+                resul.innerHTML += `<img class="ima-resultado" data-link1="${game.link1}" src="${game.ima}">`
             }
             //
         }
@@ -46,24 +46,9 @@ function click() {
         elemento.addEventListener('click', () => {
 
             const link1 = elemento.dataset.link1;
-            const link2 = elemento.dataset.link2;
-            const link3 = elemento.dataset.link3;
             overlay.classList.add('activo');
             cargartexto(link1, "#textlink1");
 
-            if (link2 != "undefined") {
-                cargartexto(link2, "#textlink2");
-            } else {
-                $("#textlink3").html("MUY PRONTO...");
-                console.log("algo");
-            }
-
-            if (link3 != "undefined") {
-                cargartexto(link3, "#textlink3");
-            } else {
-                $("#textlink3").html("MUY PRONTO...");
-                console.log("algo");
-            }
         });
 
     });
@@ -74,45 +59,7 @@ function click() {
 overlay.addEventListener('click', (evento) => {
     evento.target.id === 'overlay' ? overlay.classList.remove('activo') : '';
 });
-var x = false;
-var y = false;
-var z = false;
 
-function mostrartextlink1() {
-    x = !x;
-    if (x == true) {
-        document.getElementById('textlink1').style.display = "block";
-    } else {
-        document.getElementById('textlink1').style.display = "none";
-    }
-}
-
-function mostrartextlink2() {
-    y = !y;
-    if (y == true) {
-        document.getElementById('textlink2').style.display = "block";
-    } else {
-        document.getElementById('textlink2').style.display = "none";
-    }
-}
-
-function mostrartextlink3() {
-    z = !z;
-    if (z == true) {
-        document.getElementById('textlink3').style.display = "block";
-    } else {
-        document.getElementById('textlink3').style.display = "none";
-    }
-}
-
-/* fetch('res/texto.txt')
-    .then(res => res.text())
-    .then(content => {
-        let lines = content.split(/\n/);
-        lines.forEach(line => document.write(line));
-    })
-
- */
 function copiarAlPortapapeles(id_elemento) {
     var aux = document.createElement('input');
     aux.setAttribute('value', document.getElementById(id_elemento).innerText);
