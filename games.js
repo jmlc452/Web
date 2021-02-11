@@ -75,6 +75,27 @@ const gamesConst = [
         ima: `img/acod.jpg`,
         link1: `res/assacreed/acod.txt`,
     },
+    // DARK SOULS
+    {
+        name: `dark souls prepare to die`,
+        ima: `img/Dark_Souls_Prepare_to_Die_Edition_Portada.jpg`,
+        link1: `res/dark souls/ds2.txt`,
+    },
+    {
+        name: `dark souls 2`,
+        ima: `img/darksouls2.jpg`,
+        link1: `res/dark souls/ds1.txt`,
+    },
+    {
+        name: `dark souls 3`,
+        ima: `img/Dark_souls_3_cover_art.jpg`,
+        link1: `res/dark souls/ds3.txt`,
+    },
+    {
+        name: `dark souls remaster`,
+        ima: `img/DarkSoulsRemastered_XL.jpg`,
+        link1: `res/dark souls/dsr.txt`,
+    },
     // DEAD SPACE
     {
         name: `dead space`,
