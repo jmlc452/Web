@@ -21,7 +21,7 @@ const filt = () => {
         if (name.indexOf(text) !== -1) {
             if (imgCantidad < 12) {
                 imgCantidad++;
-                resul.innerHTML += `<img class="ima-resultado" data-link1="${game.link1}" src="${game.ima}">`
+                resul.innerHTML += `<img class="ima-resultado" data-link1="${game.link1}" data-src="${game.ima}">`
             }
             //
         }
@@ -33,6 +33,17 @@ const filt = () => {
         resul.innerHTML = "";
     }
     click();
+    var imagenesACargar = document.querySelectorAll("#resultados img[data-src]");
+    var totalImagenesCargadas = -1;
+
+    function cargarImagenesUnaAUna() {
+        totalImagenesCargadas++;
+        if (imagenesACargar[totalImagenesCargadas]) {
+            imagenesACargar[totalImagenesCargadas].onload = cargarImagenesUnaAUna;
+            imagenesACargar[totalImagenesCargadas].src = imagenesACargar[totalImagenesCargadas].dataset.src;
+        }
+    }
+    cargarImagenesUnaAUna();
 }
 
 // Agregamos el listener para la barra de busqueda
@@ -58,6 +69,7 @@ function click() {
 // Eventlistener del overlay
 overlay.addEventListener('click', (evento) => {
     evento.target.id === 'overlay' ? overlay.classList.remove('activo') : '';
+    $("#textlink1").html("<h1>CARGANDO...</h1>");
 });
 
 function copiarAlPortapapeles(id_elemento) {
@@ -79,6 +91,14 @@ function cargartexto(rutaTexto, idDepositoTexto) {
         }
     });
 }
+
+/*cargar imagenes*/
+
+
+
+
+
+
 
 /* $(function() {
     $("#button").click(function() {
