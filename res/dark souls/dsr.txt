@@ -1,0 +1,25 @@
+<h1>MEGA</h1>
+
+    <div class="tab-pane active" id="mirror-1" role="tabpanel">
+        <p><span style="color: red;"><strong>PARTE 1.-</strong></span> <a href="https://mega.nz/#!izJygbRS!i-jJk_9iVkK1Z8iucQ8fyI1lIfQFUDbztlrcDREvdks" target="_blank">mega.nz/#!izJygbRS!i-jJk_9iVkK1Z8iucQ8fyI1lIfQFUDbztlrcDREvdks</a></p>
+
+        <p><span style="color: red;"><strong>PARTE 2.-</strong></span> <a href="https://mega.nz/#!6uJFUJzB!2QuR3-NLrciD29fTmY5LPQMwxI3sUdm1TAEd4xsR_l0" target="_blank">mega.nz/#!6uJFUJzB!2QuR3-NLrciD29fTmY5LPQMwxI3sUdm1TAEd4xsR_l0</a></p>
+
+    </div>
+    <h1>GOOGLE DRIVE</h1>
+
+    <div class="tab-pane active" id="mirror-1" role="tabpanel">
+        <p><span style="font-size:16px"><span style="color:#c0392b"><strong>PARTE 1: </strong></span></span><a href="https://racaty.net/g0t33ebrw3le" target="_blank">racaty.net/g0t33ebrw3le</a></p>
+
+        <p><strong><span style="font-size:16px"><span style="color:#c0392b">PARTE 2:</span></span> </strong><a href="https://racaty.net/bxcyqib0zkrj" target="_blank">racaty.net/bxcyqib0zkrj</a></p>
+
+    </div>
+    <p><span style="color: red;"><strong>MEDIAFIRE</strong></span>
+        <a href="http://www.mediafire.com/file/6n98xc69a0d6dri/DARK.SOULS.rar/file" target="_blank">http://www.mediafire.com/file/6n98xc69a0d6dri/DARK.SOULS.rar/file</a>
+    </p>
+    <h1>UPDATE</h1>
+
+    <div class="tab-pane active" id="mirror-1" role="tabpanel">
+        <p><span style="font-size:16px"><span style="color:#c0392b"><strong>MEGA:&nbsp;&nbsp;<a href="https://mega.nz/#!fzID1SDB!esh_1nWGckZhNaA5Xcs3KldPZsW-JuuBTJBPiY0q8aM" target="_blank">mega.nz/#!fzID1SDB!esh_1nWGckZhNaA5Xcs3KldPZsW-JuuBTJBPiY0q8aM</a></strong></span></span>
+        </p>
+    </div>
