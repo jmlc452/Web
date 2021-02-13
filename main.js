@@ -6,7 +6,6 @@ document.addEventListener('DOMContentLoaded', () => {
     }))
 });
 
-//window.alert(gamesConst[0].link);
 
 const form = document.querySelector("#barra-busqueda");
 const resul = document.querySelector("#resultados");
@@ -19,11 +18,10 @@ const filt = () => {
     for (let game of gamesConst) {
         let name = game.name.toLocaleLowerCase();
         if (name.indexOf(text) !== -1) {
-            if (imgCantidad < 12) {
+            if (imgCantidad < 20) {
                 imgCantidad++;
                 resul.innerHTML += `<img class="ima-resultado" data-link1="${game.link1}" data-src="${game.ima}">`
             }
-            //
         }
     }
     if (resul.innerHTML === "") {
@@ -69,8 +67,12 @@ function click() {
 // Eventlistener del overlay
 overlay.addEventListener('click', (evento) => {
     evento.target.id === 'overlay' ? overlay.classList.remove('activo') : '';
-    $("#textlink1").html("<h1>CARGANDO...</h1>");
+    if (evento.target.id === 'overlay') {
+        $("#textlink1").html("<h1>CARGANDO...</h1>");
+    }
 });
+
+
 
 function copiarAlPortapapeles(id_elemento) {
     var aux = document.createElement('input');
@@ -91,26 +93,3 @@ function cargartexto(rutaTexto, idDepositoTexto) {
         }
     });
 }
-
-/*cargar imagenes*/
-
-
-
-
-
-
-
-/* $(function() {
-    $("#button").click(function() {
-        //var TXT_URL = 'https://www.mozilla.org/media/MPL/2.0/index.815ca599c9df.txt';
-        var TXT_URL = $("#input-url").val();
-
-        $.ajax({
-            url: TXT_URL,
-            dataType: "text",
-            success: function(data) {
-                $(".text").html("<pre>" + data + "</pre>");
-            }
-        });
-    });
-}); */
