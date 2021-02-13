@@ -1,0 +1,77 @@
+ <h1>MEGA</h1>
+
+    <div class="tab-pane active" id="mirror-1" role="tabpanel">
+        <p><strong><span style="font-size:16px"><span style="color:#c0392b">PARTE 1:</span></span></strong> <a href="https://mega.nz/file/WlIG0L5S#dIxFhpq_On9P7fFppgcCBXFyV601dQF8qybM6YK-usE" target="_blank">https://mega.nz/file/WlIG0L5S#dIxFhpq_On9P7fFppgcCBXFyV601dQF8qybM6YK-usE</a></p>
+        <p><strong><span style="font-size:16px"><span style="color:#c0392b">PARTE 2: </span></span></strong><a href="https://mega.nz/file/OoQCGDRR#XIz6GCv3HTr21jBdIE9j3wtAauIe1eE_k6bhhvrJyfs" target="_blank">https://mega.nz/file/OoQCGDRR#XIz6GCv3HTr21jBdIE9j3wtAauIe1eE_k6bhhvrJyfs</a></p>
+        <p><strong><span style="font-size:16px"><span style="color:#c0392b">PARTE 3: </span></span></strong><a href="https://mega.nz/file/i4AkHTSa#pFPYt5_to29PAfVd1XAFF1JsfFDcri6TwyXBBnH_9ts" target="_blank">https://mega.nz/file/i4AkHTSa#pFPYt5_to29PAfVd1XAFF1JsfFDcri6TwyXBBnH_9ts</a></p>
+        <p><strong><span style="font-size:16px"><span style="color:#c0392b">PARTE 4: </span></span></strong><a href="https://mega.nz/file/2xYECLaS#Pvo-sEBULcbIAeHAXAgdnmBGLvHsHjVMIuY8FADAnxM" target="_blank">https://mega.nz/file/2xYECLaS#Pvo-sEBULcbIAeHAXAgdnmBGLvHsHjVMIuY8FADAnxM</a></p>
+        <p><strong><span style="font-size:16px"><span style="color:#c0392b">PARTE 5: </span></span></strong><a href="https://mega.nz/file/r0JwVLKJ#onOPALa0nq46IgJ-OPdPsFHKPvlG4DGOROYODlIAypA" target="_blank">https://mega.nz/file/r0JwVLKJ#onOPALa0nq46IgJ-OPdPsFHKPvlG4DGOROYODlIAypA</a></p>
+        <p><strong><span style="font-size:16px"><span style="color:#c0392b">PARTE 6: </span></span></strong><a href="https://mega.nz/file/rtZQVDqY#V0glRK1qbvLElemf93PJLQMYnsufl-BPK3XhB1J3sz8" target="_blank">https://mega.nz/file/rtZQVDqY#V0glRK1qbvLElemf93PJLQMYnsufl-BPK3XhB1J3sz8</a></p>
+        <p><strong><span style="font-size:16px"><span style="color:#c0392b">PARTE 7: </span></span></strong><a href="https://mega.nz/file/q8QghLhB#jsseSluzKEvnunSBcfcgwP_EPToK2pliKTHTzLDKAXU" target="_blank">https://mega.nz/file/q8QghLhB#jsseSluzKEvnunSBcfcgwP_EPToK2pliKTHTzLDKAXU</a></p>
+        <p><strong><span style="font-size:16px"><span style="color:#c0392b">PARTE 8: </span></span></strong><a href="https://mega.nz/file/ikB0hDQa#bkw15p5MOXUNVOcF1Ode6eMoFNM7GAC9JvDsf2thObA" target="_blank">https://mega.nz/file/ikB0hDQa#bkw15p5MOXUNVOcF1Ode6eMoFNM7GAC9JvDsf2thObA</a></p>
+        <p><strong><span style="font-size:16px"><span style="color:#c0392b">PARTE 9: </span></span></strong><a href="https://mega.nz/file/LpY2jBCb#S672_elW7bhPVzsxA0HUIl5p1Q-5MsGFyD6Ak5uJsgw" target="_blank">https://mega.nz/file/LpY2jBCb#S672_elW7bhPVzsxA0HUIl5p1Q-5MsGFyD6Ak5uJsgw</a></p>
+        <p><strong><span style="font-size:16px"><span style="color:#c0392b">PARTE 10: </span></span></strong><a href="https://mega.nz/file/n1ZSiZqT#UKPyzkzwD3cXISHZcja7zjM4cF13XFAeigEQgGYPszM" target="_blank">https://mega.nz/file/n1ZSiZqT#UKPyzkzwD3cXISHZcja7zjM4cF13XFAeigEQgGYPszM</a></p>
+    </div>
+    <h1>GOOGLE DRIVE</h1>
+
+    <div class="tab-pane active" id="mirror-1" role="tabpanel">
+        <p><strong><span style="font-size:16px"><span style="color:#c0392b">PARTE 1: </span></span></strong><a href="https://drive.google.com/drive/folders/1CObirOIhr53NZLGdbL2Iegg9cuTS1EeF?usp=sharing" target="_blank">https://drive.google.com/drive/folders/1CObirOIhr53NZLGdbL2Iegg9cuTS1EeF?usp=sharing</a></p>
+        <p><strong><span style="font-size:16px"><span style="color:#c0392b">PARTE 2: </span></span></strong><a href="https://drive.google.com/drive/folders/1z6BbIcl59E4WVpMwVR157d9NCU4_NgMc?usp=sharing" target="_blank">https://drive.google.com/drive/folders/1z6BbIcl59E4WVpMwVR157d9NCU4_NgMc?usp=sharing</a></p>
+    </div>
+<h1>RACATY</h1>
+    <div class="tab-pane active" id="mirror-1" role="tabpanel">
+        <p><strong><span style="font-size:16px"><span style="color:#c0392b">PARTE 1:</span></span></strong> <a href="https://racaty.net/h3dbrap011la" target="_blank">https://racaty.net/h3dbrap011la</a></p>
+        <p><strong><span style="font-size:16px"><span style="color:#c0392b">PARTE 2: </span></span></strong><a href="https://racaty.net/hk9yrv795o27" target="_blank">https://racaty.net/hk9yrv795o27</a></p>
+        <p><strong><span style="font-size:16px"><span style="color:#c0392b">PARTE 3: </span></span></strong><a href="https://racaty.net/9uleegml94io" target="_blank">https://racaty.net/9uleegml94io</a></p>
+        <p><strong><span style="font-size:16px"><span style="color:#c0392b">PARTE 4: </span></span></strong><a href="https://racaty.net/c2fsc899najo" target="_blank">https://racaty.net/c2fsc899najo</a></p>
+        <p><strong><span style="font-size:16px"><span style="color:#c0392b">PARTE 5: </span></span></strong><a href="https://racaty.net/fhyrcxqjv0mm" target="_blank">https://racaty.net/fhyrcxqjv0mm</a></p>
+        <p><br> <strong><span style="font-size:16px"><span style="color:#c0392b">PARTE 6: </span></span></strong><a href="https://racaty.net/gxzl91u53tvz" target="_blank">https://racaty.net/gxzl91u53tvz</a></p>
+        <p><strong><span style="font-size:16px"><span style="color:#c0392b">PARTE 7: </span></span></strong><a href="https://racaty.net/dq79ctoqqonu" target="_blank">https://racaty.net/dq79ctoqqonu</a></p>
+        <p><strong><span style="font-size:16px"><span style="color:#c0392b">PARTE 8: </span></span></strong><a href="https://racaty.net/lr31jdh7b11n" target="_blank">https://racaty.net/lr31jdh7b11n</a></p>
+        <p><strong><span style="font-size:16px"><span style="color:#c0392b">PARTE 9: </span></span></strong><a href="https://racaty.net/voi83c6vanbq" target="_blank">https://racaty.net/voi83c6vanbq</a></p>
+        <p><strong><span style="font-size:16px"><span style="color:#c0392b">PARTE 10: </span></span></strong><a href="https://racaty.net/5fxilwpp5eki" target="_blank">https://racaty.net/5fxilwpp5eki</a></p>
+        <p>&nbsp;</p>
+    </div>
+
+    <div itemprop="articleBody" class="s-post-content s-post-small-el bb-mb-el">
+        <h1>MEDIAFIRE</h1>
+
+
+
+
+        <p>Contraseña general:&nbsp;<strong>pelismediafire</strong></p>
+
+
+
+        <p><strong>Parte 1:&nbsp;<a href="http://www.mediafire.com/file/rk7sc5tf1xsw4id/C0d_30P5_II.part1.rar/file">http://www.mediafire.com/file/rk7sc5tf1xsw4id/C0d_30P5_II.part1.rar/file</a></strong></p>
+
+
+
+        <p><strong>Parte 2:&nbsp;<a href="http://www.mediafire.com/file/f7xtc6rv6rq7g1d/C0d_30P5_II.part2.rar/file">http://www.mediafire.com/file/f7xtc6rv6rq7g1d/C0d_30P5_II.part2.rar/file</a></strong></p>
+
+
+
+        <p><strong>Parte 3:&nbsp;<a href="http://www.mediafire.com/file/teqtn1ot01lwq74/C0d_30P5_II.part3.rar/file">http://www.mediafire.com/file/teqtn1ot01lwq74/C0d_30P5_II.part3.rar/file</a></strong></p>
+
+
+
+        <p><strong>Parte 4:&nbsp;<a href="http://www.mediafire.com/file/45srjl2vt19n5yj/C0d_30P5_II.part4.rar/file">http://www.mediafire.com/file/45srjl2vt19n5yj/C0d_30P5_II.part4.rar/file</a></strong></p>
+
+
+
+        <p><strong>Parte 5:&nbsp;<a href="http://www.mediafire.com/file/lqhyzj9p3ujbce7/C0d_30P5_II.part5.rar/file">http://www.mediafire.com/file/lqhyzj9p3ujbce7/C0d_30P5_II.part5.rar/file</a></strong><strong>Parte 6:&nbsp;<a href="http://www.mediafire.com/file/mmk9c8t4zz87ccf/C0d_30P5_II.part6.rar/file">http://www.mediafire.com/file/mmk9c8t4zz87ccf/C0d_30P5_II.part6.rar/file</a></strong></p>
+
+
+
+        <p>Debes descargar todas las partes y <strong>«extraer» </strong>solo la parte 1. o seleccionar todas las partes, presionar clic derecho y marcar <strong>«extraer»</strong> </p>
+
+
+
+        <blockquote class="wp-block-quote">
+            <p><strong><em>Ninguna sola parte esta dañada. la integridad de los archivos siempre es la correcta, de modo que las partes en su totalidad están funcionales</em></strong></p>
+        </blockquote>
+
+
+
+        
+    </div>

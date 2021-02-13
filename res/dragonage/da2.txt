@@ -1,0 +1,29 @@
+
+<h1>MEGA</h1>
+
+    <div class="tab-pane active" id="mirror-1" role="tabpanel">
+        <p><span style="font-size:16px"><span style="color:#c0392b"><strong>PARTE 1: </strong></span></span><a href="https://mega.nz/#!KRxxjaYS!hJTq3udkZPT4cQPRFig9DmgksgAn67ZMPx8Vc2JGIr8" target="_blank">mega.nz/#!KRxxjaYS!hJTq3udkZPT4cQPRFig9DmgksgAn67ZMPx8Vc2JGIr8</a></p>
+
+        <p><span style="font-size:16px"><span style="color:#c0392b"><strong>PARTE 2: </strong></span></span><a href="https://mega.nz/#!rJ5jBABZ!ge5cS-k9-dBXoMugcBAF5i0m-uLwugtMXmmTw9zKRLg" target="_blank">mega.nz/#!rJ5jBABZ!ge5cS-k9-dBXoMugcBAF5i0m-uLwugtMXmmTw9zKRLg</a></p>
+
+        <p><span style="font-size:16px"><span style="color:#c0392b"><strong>PARTE 3: </strong></span></span><a href="https://mega.nz/#!yEpw2SzI!XrRuioTtI0SFDD9IMlthMf1ot49Ua5SQTW24-4AFHvM" target="_blank">mega.nz/#!yEpw2SzI!XrRuioTtI0SFDD9IMlthMf1ot49Ua5SQTW24-4AFHvM</a></p>
+
+    </div>
+    <h1>GOOGLE DRIVE</h1>
+
+    <div class="tab-pane active" id="mirror-1" role="tabpanel">
+        <p><span style="font-size:16px"><span style="color:#c0392b"><strong>PARTE 1: </strong></span></span><a href="https://drive.google.com/file/d/1tvB1_G3EGZ6hi_xcZ6OpdMbJQUZskXj4/view" target="_blank">drive.google.com/file/d/1tvB1_G3EGZ6hi_xcZ6OpdMbJQUZskXj4/view</a></p>
+
+        <p><span style="font-size:16px"><span style="color:#c0392b"><strong>PARTE 2: </strong></span></span><a href="https://drive.google.com/file/d/1pC5_s6sc4kClHj-TLW4goB9T3GM2PphP/view" target="_blank">drive.google.com/file/d/1pC5_s6sc4kClHj-TLW4goB9T3GM2PphP/view</a></p>
+
+        <p><span style="font-size:16px"><span style="color:#c0392b"><strong>PARTE 3: </strong></span></span><a href="https://drive.google.com/file/d/1vPBWZVbYSjUNe9Yx6A4nEw4xGAVLtoIb/view" target="_blank">drive.google.com/file/d/1vPBWZVbYSjUNe9Yx6A4nEw4xGAVLtoIb/view</a></p>
+
+        <p>&nbsp;</p>
+
+        <p style="text-align:center"><span style="font-size:20px"><span style="color:#c0392b"><strong>SOLUCIÓN A ENLACES SATURADOS</strong></span></span>
+        </p>
+
+        <p style="text-align:center"><span style="font-size:20px"><span style="color:#c0392b"><strong><iframe allow=";" allowfullscreen="" frameborder="0" height="360" src="https://www.youtube.com/embed/xlEXh5oM1C0" width="640"></iframe></strong></span></span>
+        </p>
+
+    </div>

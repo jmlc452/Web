@@ -1,0 +1,106 @@
+
+    <h1>MEGA</h1>
+
+    <div class="tab-pane active" id="mirror-1" role="tabpanel">
+        <p><span style="color: red;"><strong>PARTE 1.-</strong></span> <a href="https://mega.nz/#!745y3QTL!xC3mqJmwUxiMD4-XMJQ8TljE-DChtW-XRNpXH5Bbw4g" target="_blank">mega.nz/#!745y3QTL!xC3mqJmwUxiMD4-XMJQ8TljE-DChtW-XRNpXH5Bbw4g</a></p>
+
+        <p><span style="color: red;"><strong>PARTE 2.-</strong></span> <a href="https://mega.nz/#!4BMAhQpb!hv45YkfJc-MBY_-eepkju1exKbutEL6NoudxGoflTic" target="_blank">mega.nz/#!4BMAhQpb!hv45YkfJc-MBY_-eepkju1exKbutEL6NoudxGoflTic</a></p>
+
+        <p><span style="color: red;"><strong>PARTE 3.-</strong></span> <a href="https://mega.nz/#!MVUSEALA!rY9pnGYKUv7pUOlhqGSErt3JY6pNWPHebEMWHnhMeX8" target="_blank">mega.nz/#!MVUSEALA!rY9pnGYKUv7pUOlhqGSErt3JY6pNWPHebEMWHnhMeX8</a></p>
+
+        <p><span style="color: red;"><strong>PARTE 4.-</strong></span> <a href="https://mega.nz/#!QEciDQBD!DAMDWEK3J_xovILX-dVAfoJdPeaTEpt0OwC132jXHM8" target="_blank">mega.nz/#!QEciDQBD!DAMDWEK3J_xovILX-dVAfoJdPeaTEpt0OwC132jXHM8</a></p>
+
+        <p><span style="color: red;"><strong>PARTE 5.-</strong></span> <a href="https://mega.nz/#!MYU2kC5K!P16NpA6yRIVZ4kKUNrZTvDMnJWtBoooHtwVKyjdaPo4" target="_blank">mega.nz/#!MYU2kC5K!P16NpA6yRIVZ4kKUNrZTvDMnJWtBoooHtwVKyjdaPo4</a></p>
+
+        <p><span style="color: red;"><strong>PARTE 6.-</strong></span> <a href="https://mega.nz/#!sJES1QhS!uTKaaV04prymyYQaifHFGbyXk18A2Kcm0YvZY_AKIfk" target="_blank">mega.nz/#!sJES1QhS!uTKaaV04prymyYQaifHFGbyXk18A2Kcm0YvZY_AKIfk</a></p>
+
+        <p><span style="color: red;"><strong>PARTE 7.-</strong></span> <a href="https://mega.nz/#!RJd0xI5A!9tKfyRlRFiiTQUlN3ighz16UkvfogiLEpeJOvTyBFUk" target="_blank">mega.nz/#!RJd0xI5A!9tKfyRlRFiiTQUlN3ighz16UkvfogiLEpeJOvTyBFUk</a></p>
+
+        <p><span style="color: red;"><strong>PARTE 8.-</strong></span> <a href="https://mega.nz/#!hJdUTKBZ!w4Sg15CrjihsfnFGx0qrKnO_2CqnYm_9LoAZTvBJUhU" target="_blank">mega.nz/#!hJdUTKBZ!w4Sg15CrjihsfnFGx0qrKnO_2CqnYm_9LoAZTvBJUhU</a></p>
+
+        <p><span style="color: red;"><strong>PARTE 9.-</strong></span> <a href="https://mega.nz/#!pRFmTYqJ!-U2N0IuHq50KCMRoN5_Lrk-AVafYFUf6MNTMeobCjBA" target="_blank">mega.nz/#!pRFmTYqJ!-U2N0IuHq50KCMRoN5_Lrk-AVafYFUf6MNTMeobCjBA</a></p>
+
+        <p><span style="color: red;"><strong>PARTE 10.-</strong></span> <a href="https://mega.nz/#!BQM2jIRB!DZc1lwB7H9ND56ZswuIY-ZcwpkMvytES5PcEDQ09dc8" target="_blank">mega.nz/#!BQM2jIRB!DZc1lwB7H9ND56ZswuIY-ZcwpkMvytES5PcEDQ09dc8</a></p>
+
+        <p><span style="color: red;"><strong>PARTE 11.-</strong></span> <a href="https://mega.nz/#!JccmUYyI!qrk3Z7nbPMkueHx19Zd3otZf2kVuPhgjvfCn1c-wsFU" target="_blank">mega.nz/#!JccmUYyI!qrk3Z7nbPMkueHx19Zd3otZf2kVuPhgjvfCn1c-wsFU</a></p>
+
+        <p><span style="color: red;"><strong>PARTE 12.-</strong></span> <a href="https://mega.nz/#!gcF2FAJB!VnTa-1j4fPn7jIx1RsP2JWF9nGpzfSHeIgKIhJhH_o8" target="_blank">mega.nz/#!gcF2FAJB!VnTa-1j4fPn7jIx1RsP2JWF9nGpzfSHeIgKIhJhH_o8</a></p>
+
+    </div>
+
+    <p><span style="font-size:16px"><span style="color:#c0392b"><strong>GOOGLE DRIVE:&nbsp;<a href="https://drive.google.com/drive/folders/1b1-RlwV4uR6fgG8gf9jxfR8gWNNkl9cT" target="_blank">drive.google.com/drive/folders/1b1-RlwV4uR6fgG8gf9jxfR8gWNNkl9cT</a></strong></span></span>
+    </p>
+    <h1>MEGAUP</h1>
+    <div class="tab-pane active" id="mirror-1" role="tabpanel">
+        <p><span style="color:#c0392b"><span style="font-size:16px"><strong>PARTE 1: </strong></span></span><a href="https://megaup.net/2MB41/F4-GOTYv1.10.114-PiviGames.blog.part01.rar" target="_blank">megaup.net/2MB41/F4-GOTYv1.10.114-PiviGames.blog.part01.rar</a></p>
+        <p><span style="color:#c0392b"><span style="font-size:16px"><strong>PARTE 2: </strong></span></span><a href="https://megaup.net/3sywg/F4-GOTYv1.10.114-PiviGames.blog.part02.rar" target="_blank">megaup.net/3sywg/F4-GOTYv1.10.114-PiviGames.blog.part02.rar</a></p>
+        <p><span style="color:#c0392b"><span style="font-size:16px"><strong>PARTE 3: </strong></span></span><a href="https://megaup.net/3sywb/F4-GOTYv1.10.114-PiviGames.blog.part03.rar" target="_blank">megaup.net/3sywb/F4-GOTYv1.10.114-PiviGames.blog.part03.rar</a></p>
+        <p><span style="color:#c0392b"><span style="font-size:16px"><strong>PARTE 4: </strong></span></span><a href="https://megaup.net/3syw8/F4-GOTYv1.10.114-PiviGames.blog.part04.rar" target="_blank">megaup.net/3syw8/F4-GOTYv1.10.114-PiviGames.blog.part04.rar</a></p>
+        <p><span style="color:#c0392b"><span style="font-size:16px"><strong>PARTE 5: </strong></span></span><a href="https://megaup.net/3syw3/F4-GOTYv1.10.114-PiviGames.blog.part05.rar" target="_blank">megaup.net/3syw3/F4-GOTYv1.10.114-PiviGames.blog.part05.rar</a></p>
+        <p><span style="color:#c0392b"><span style="font-size:16px"><strong>PARTE 6: </strong></span></span><a href="https://megaup.net/4OtqB/F4-GOTYv1.10.114-PiviGames.blog.part06.rar" target="_blank">megaup.net/4OtqB/F4-GOTYv1.10.114-PiviGames.blog.part06.rar</a></p>
+        <p><span style="color:#c0392b"><span style="font-size:16px"><strong>PARTE 7: </strong></span></span><a href="https://megaup.net/48w6q/F4-GOTYv1.10.114-PiviGames.blog.part07.rar" target="_blank">megaup.net/48w6q/F4-GOTYv1.10.114-PiviGames.blog.part07.rar</a></p>
+        <p><span style="color:#c0392b"><span style="font-size:16px"><strong>PARTE 8: </strong></span></span><a href="https://megaup.net/48w6n/F4-GOTYv1.10.114-PiviGames.blog.part08.rar" target="_blank">megaup.net/48w6n/F4-GOTYv1.10.114-PiviGames.blog.part08.rar</a></p>
+        <p><span style="color:#c0392b"><span style="font-size:16px"><strong>PARTE 9: </strong></span></span><a href="https://megaup.net/48w6e/F4-GOTYv1.10.114-PiviGames.blog.part09.rar" target="_blank">megaup.net/48w6e/F4-GOTYv1.10.114-PiviGames.blog.part09.rar</a></p>
+        <p><span style="color:#c0392b"><span style="font-size:16px"><strong>PARTE 10: </strong></span></span><a href="https://megaup.net/48w65/F4-GOTYv1.10.114-PiviGames.blog.part10.rar" target="_blank">megaup.net/48w65/F4-GOTYv1.10.114-PiviGames.blog.part10.rar</a></p>
+        <p><span style="color:#c0392b"><span style="font-size:16px"><strong>PARTE 11: </strong></span></span><a href="https://megaup.net/4Otye/F4-GOTYv1.10.114-PiviGames.blog.part11.rar" target="_blank">megaup.net/4Otye/F4-GOTYv1.10.114-PiviGames.blog.part11.rar</a></p>
+        <p><strong><span style="color:#c0392b"><span style="font-size:16px">PARTE 12:</span></span> </strong><a href="https://megaup.net/2MBb5/F4-GOTYv1.10.114-PiviGames.blog.part12.rar" target="_blank">megaup.net/2MBb5/F4-GOTYv1.10.114-PiviGames.blog.part12.rar</a></p>
+    </div>
+    <h1>UPDATE PARA LA VERSION DE MEGA Y GOOGLE DRIVE</h1>
+
+
+    <div class="tab-pane active" id="mirror-1" role="tabpanel">
+        <p><span style="color:#c0392b"><span style="font-size:16px"><strong>MEGA:&nbsp;<a href="https://mega.nz/#!fI0WVCoC!1j2x7z2Cfx000lGfy0uQ5096pdCI3xYyIg6-pSoZK7A" target="_blank">mega.nz/#!fI0WVCoC!1j2x7z2Cfx000lGfy0uQ5096pdCI3xYyIg6-pSoZK7A</a></strong></span></span>
+        </p>
+        <p><span style="color:#c0392b"><span style="font-size:16px"><strong>MEDIAFIRE:&nbsp;<a href="http://www.mediafire.com/file/2465kbp6plpjnyb/Fal4lou4t-Update1.10.130.rar/file" target="_blank">www.mediafire.com/file/2465kbp6plpjnyb/Fal4lou4t-Update1.10.130.rar/file</a></strong></span></span>
+        </p>
+    </div>
+
+    <div itemprop="articleBody" class="s-post-content s-post-small-el bb-mb-el">
+        <h1>MEDIAFIRE</h1>
+
+
+
+
+        <p>Contraseña general:&nbsp;<strong>pelismediafire</strong></p>
+
+
+
+        <p><strong>Parte 1:&nbsp;</strong><a href="https://www.mediafire.com/file/2hm3c9ndyfxfd2h/F4110UT_4_COMPLETE.part1.rar/file">https://www.mediafire.com/file/2hm3c9ndyfxfd2h/F4110UT_4_COMPLETE.part1.rar/file</a></p>
+
+
+
+        <p><strong>Parte 2:&nbsp;</strong><a href="https://www.mediafire.com/file/2lut056pttxwtnp/F4110UT_4_COMPLETE.part2.rar/file">https://www.mediafire.com/file/2lut056pttxwtnp/F4110UT_4_COMPLETE.part2.rar/file</a></p>
+
+
+
+        <p><strong>Parte 3:&nbsp;</strong><a href="https://www.mediafire.com/file/7kk7mtg4i80iw2c/F4110UT_4_COMPLETE.part3.rar/file">https://www.mediafire.com/file/7kk7mtg4i80iw2c/F4110UT_4_COMPLETE.part3.rar/file</a></p>
+
+
+
+        <p><strong>Parte 4:&nbsp;</strong><a href="https://www.mediafire.com/file/kjt3j17dybokt7l/F4110UT_4_COMPLETE.part4.rar/file">https://www.mediafire.com/file/kjt3j17dybokt7l/F4110UT_4_COMPLETE.part4.rar/file</a></p>
+
+
+
+        <p><strong>Parte 5:&nbsp;</strong><a href="https://www.mediafire.com/file/7dgbol91qi8ct76/F4110UT_4_COMPLETE.part5.rar/file">https://www.mediafire.com/file/7dgbol91qi8ct76/F4110UT_4_COMPLETE.part5.rar/file</a></p>
+
+
+
+        <p><strong>Parte 6:&nbsp;</strong><a href="https://www.mediafire.com/file/lfr2vezf6qym3fv/F4110UT_4_COMPLETE.part6.rar/file">https://www.mediafire.com/file/lfr2vezf6qym3fv/F4110UT_4_COMPLETE.part6.rar/file</a></p>
+
+
+
+        <p><strong>Parte 7:&nbsp;</strong><a href="https://www.mediafire.com/file/lgl8dv9cryvktm5/F4110UT_4_COMPLETE.part7.rar/file">https://www.mediafire.com/file/lgl8dv9cryvktm5/F4110UT_4_COMPLETE.part7.rar/file</a></p>
+
+
+
+        <p>Debes descargar todas las partes y <strong>«extraer» </strong>solo la parte 1. o seleccionar todas las partes, presionar clic derecho y marcar <strong>«extraer»</strong> </p>
+
+
+
+        <blockquote class="wp-block-quote">
+            <p><strong><em>Ninguna sola parte esta dañada. la integridad de los archivos siempre es la correcta, de modo que las partes en su totalidad están funcionales</em></strong></p>
+        </blockquote>
+
+
+
+    </div>

@@ -1,0 +1,27 @@
+<h1>MEGA</h1>
+
+    <div class="tab-pane active" id="mirror-1" role="tabpanel">
+        <p><span style="color:#c0392b"><span style="font-size:16px"><strong>PARTE 1:</strong></span></span> <a href="https://mega.nz/#!m8F1jAzD!7DPPlKzzkMtmPldEbqDrFmfe9MKMG0Ec2suapz29438" target="_blank">mega.nz/#!m8F1jAzD!7DPPlKzzkMtmPldEbqDrFmfe9MKMG0Ec2suapz29438</a></p>
+        <p><span style="color:#c0392b"><span style="font-size:16px"><strong>PARTE 2:</strong></span></span> <a href="https://mega.nz/#!q4dByIrY!83lL96NEnU9ivnp56ILBwrb59Mk94o_AHbaVPXU_e84" target="_blank">mega.nz/#!q4dByIrY!83lL96NEnU9ivnp56ILBwrb59Mk94o_AHbaVPXU_e84</a></p>
+        <p><span style="color:#c0392b"><span style="font-size:16px"><strong>PARTE 3:</strong></span></span> <a href="https://mega.nz/#!e5UDzCQD!o9c5wIsOqwjiLIM8YkBBpvtPg7er8jZL7dq86ahpJi4" target="_blank">mega.nz/#!e5UDzCQD!o9c5wIsOqwjiLIM8YkBBpvtPg7er8jZL7dq86ahpJi4</a></p>
+        <p><span style="color:#c0392b"><span style="font-size:16px"><strong>PARTE 4: </strong></span></span><a href="https://mega.nz/#!4d4hwSIL!oF3oX86roiYvkteweOJRbp1sM0ZRG4XqCin_nrVNRrU" target="_blank">mega.nz/#!4d4hwSIL!oF3oX86roiYvkteweOJRbp1sM0ZRG4XqCin_nrVNRrU</a></p>
+        <p><span style="color:#c0392b"><span style="font-size:16px"><strong>PARTE 5: </strong></span></span><a href="https://mega.nz/#!AFx3Qa4S!ExWSSAtj7wvHwNe9kS-n0oZLKO9pG6bDPHdua0c9Gm4" target="_blank">mega.nz/#!AFx3Qa4S!ExWSSAtj7wvHwNe9kS-n0oZLKO9pG6bDPHdua0c9Gm4</a></p>
+        <p><span style="color:#c0392b"><span style="font-size:16px"><strong>PARTE 6: </strong></span></span><a href="https://mega.nz/#!z8FTTSST!OZ7bhvzeVRvS0v-HLx0SmgG53kwZzFkfyGH_5UUpuTY" target="_blank">mega.nz/#!z8FTTSST!OZ7bhvzeVRvS0v-HLx0SmgG53kwZzFkfyGH_5UUpuTY</a></p>
+    </div>
+    <h1>GOOGLE DRIVE</h1>
+
+    <div class="tab-pane active" id="mirror-1" role="tabpanel">
+        <p><strong>Cada enlace es un carpeta con 3 Archivos intercambiables con los de Mega</strong></p>
+        <p><span style="font-size:16px"><span style="color:#c0392b"><strong>PARTE 1:</strong> </span></span><a href="https://drive.google.com/drive/folders/1tenUFVNTEtmnOkGjiUpHP3E2lc0euOJW?usp=sharing" target="_blank">https://drive.google.com/drive/folders/1tenUFVNTEtmnOkGjiUpHP3E2lc0euOJW?usp=sharing</a></p>
+        <p><span style="font-size:16px"><span style="color:#c0392b"><strong>PARTE 2: </strong></span></span><a href="https://drive.google.com/drive/folders/188HEUCEauYfja4mGxiaQnQRrwS62oodB?usp=sharing" target="_blank">https://drive.google.com/drive/folders/188HEUCEauYfja4mGxiaQnQRrwS62oodB?usp=sharing</a></p>
+    </div>
+    <h1>UPDATE</h1>
+
+
+    <div class="tab-pane active" id="mirror-1" role="tabpanel">
+        <p><span style="color:#c0392b"><span style="font-size:16px"><strong>MEGA:&nbsp;</strong></span></span><span style="color:#c0392b"><span style="font-size:16px"><strong><a href="https://mega.nz/#!ASxAgSZS!63Mu0WsdvhB6xhDhLB_c9kI6KALZsTdVZmmEGRu-UpY" target="_blank">mega.nz/#!ASxAgSZS!63Mu0WsdvhB6xhDhLB_c9kI6KALZsTdVZmmEGRu-UpY</a></strong></span></span>
+        </p>
+
+        <p><span style="color:#c0392b"><span style="font-size:16px"><strong>MEDIAFIRE:&nbsp;</strong></span></span><span style="color:#c0392b"><span style="font-size:16px"><strong><a href="http://www.mediafire.com/file/f1mwp89d4ay4xg5/TEScrol5lsVSk5yrimSpe5cialEdi-Update1.5.97.rar/file" target="_blank">www.mediafire.com/file/f1mwp89d4ay4xg5/TEScrol5lsVSk5yrimSpe5cialEdi-Update1.5.97.rar/file</a></strong></span></span>
+        </p>
+    </div>
