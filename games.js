@@ -78,7 +78,7 @@ const gamesConst = [
     // CALL OF DUTY
     {
         name: `call of duty modern warfare 2 remastered`,
-        ima: `img/cod modern warfare remaster 2.jpeg`,
+        ima: `img/220px-Call_of_Duty_-_Modern_Warfare_Remastered`,
         link1: `res/cod/codmw2r.txt`,
     },
     {
